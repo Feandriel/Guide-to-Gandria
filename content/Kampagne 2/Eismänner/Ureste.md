@@ -1,4 +1,4 @@
-![[../../Bilder/Ureste.png]]
+![[Bilder/Ureste.png]]
 ## Beschreibung
 Ein Mann in der Blüte seiner Jahre, mit entfallenem Haupthaar, einem langsam ergrauenden Bart und warmen braunen Augen. Er trägt bevorzugterweise grüne und karmesinrote Gewänder, Wamse und Tuniken und verlässt niemals sein Haus ohne sein eingetopftes Gänseblümchen. 
 
