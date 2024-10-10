@@ -1,6 +1,6 @@
 ![[Bilder/Nils.png]]
 
-## Beschreibung
+### Beschreibung
 Ein junger Elf, offensichtlich vom Kontinent, mit platinblonden Haaren, einer schlanken Figur und noblen Gesichtszügen, welcher sich in traditionelle elfische Gewänder kleidet, stark beeinflusst von seiner nordischen Heimat.
 
 ### Hintergrund
@@ -20,6 +20,7 @@ So verbrachten die beiden miteinander 20 Jahre in Varmog Gronn und erlebten geme
 - Gwent hat mit seiner Leier bereits Riesen eingeschläfert
 - Gwent ist Konkubinat von Vylnarra Ängelsdottir
 - Gwent ist als Pyromane und Feuerteufel bekannt
+- 
 
 
 ### Abenteuer

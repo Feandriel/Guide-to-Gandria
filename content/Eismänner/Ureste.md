@@ -6,7 +6,6 @@
 
 ### Gerüchte über Ureste
 - Ureste spricht keine Sprachen außer Norse
-- 
 - Ureste hat sein Gedächtnis verloren
 - Ureste hat sogar Jarl Kvitrave bekocht
 
