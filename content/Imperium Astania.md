@@ -8,47 +8,47 @@ Im Norden bildet das ewige Eis zusammen mit den Winterklüften eine natürliche 
 
 
 #### Astanische Städte und Dörfer
-- [[Imperiale Städte/Adriona|Adriona]], Imperiale Hauptstadt, Hauptsitz der Kaiserfamilie
+- [[Kampagne 1/Organisationen/Imperiale Städte/Adriona|Adriona]], Imperiale Hauptstadt, Hauptsitz der Kaiserfamilie
 	- Astoria
 	- Flusswald
 	- Hügelfeste
 	- Sonnwacht
 
-- [[Imperiale Städte/Ad-Torrei|Ad-Torrrei]], Hauptstadt des Herzogtums der Drei-Fluss-Ebene
-	- [[Imperiale Städte/Seefels|Seefels]]
-	- [[Imperiale Städte/Valenfeld|Valenfeld]]
-	- [[Imperiale Städte/Eren|Eren]]
-	- [[Imperiale Städte/Belt|Belt]]
+- [[Kampagne 1/Organisationen/Imperiale Städte/Ad-Torrei|Ad-Torrrei]], Hauptstadt des Herzogtums der Drei-Fluss-Ebene
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Seefels|Seefels]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Valenfeld|Valenfeld]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Eren|Eren]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Belt|Belt]]
 
-- [[Imperiale Städte/Andoras|Andoras]], Hauptstadt des gleichnamigen Herzogtums
-	- [[Imperiale Städte/Endera|Endera]]
-	- [[Imperiale Städte/Lunaroí|Lunaroí]]
+- [[Kampagne 1/Organisationen/Imperiale Städte/Andoras|Andoras]], Hauptstadt des gleichnamigen Herzogtums
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Endera|Endera]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Lunaroí|Lunaroí]]
 
-- [[Imperiale Städte/Urma|Urma]], Hauptstadt des gleichnamigen Herzogtums 
-	- [[Imperiale Städte/Lilacswacht|Lilacswacht]]
-	- [[Imperiale Städte/Wesnear|Wesnear]]
-	- [[Imperiale Städte/Kaltabroich|Kaltabroich]]
-	- [[Imperiale Städte/Flüsterfeste|Flüsterfeste]]
-	- [[Imperiale Städte/Rabenfels|Rabenfels]]
-	- [[Imperiale Städte/Mondklamm|Mondklamm]]
+- [[Kampagne 1/Organisationen/Imperiale Städte/Urma|Urma]], Hauptstadt des gleichnamigen Herzogtums 
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Lilacswacht|Lilacswacht]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Wesnear|Wesnear]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Kaltabroich|Kaltabroich]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Flüsterfeste|Flüsterfeste]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Rabenfels|Rabenfels]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Mondklamm|Mondklamm]]
 
-- [[Imperiale Städte/Kraë'rath|Kraë'rath]], Hauptstadt des Herzogtums Astan, Magierzitadelle des Reiches
-	- [[Imperiale Städte/Atnahr|Atnahr]], Grenzstadt im Herzogtum Astan
-	- [[Imperiale Städte/Mahr|Mahr]]
+- [[Kampagne 1/Organisationen/Imperiale Städte/Kraë'rath|Kraë'rath]], Hauptstadt des Herzogtums Astan, Magierzitadelle des Reiches
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Atnahr|Atnahr]], Grenzstadt im Herzogtum Astan
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Mahr|Mahr]]
 
-- [[Imperiale Städte/Silvara|Silvara]], Hauptstadt des Fürstentums der Höggelschlucht 
+- [[Kampagne 1/Organisationen/Imperiale Städte/Silvara|Silvara]], Hauptstadt des Fürstentums der Höggelschlucht 
 
-- [[Imperiale Städte/Balerno|Balerno]], Hauptstadt des Fürstentums des Malimoors
-	- [[Imperiale Städte/Sumpfsent|Sumpfsent]]
-	- [[Imperiale Städte/Hexenhain|Hexenhain]]
+- [[Kampagne 1/Organisationen/Imperiale Städte/Balerno|Balerno]], Hauptstadt des Fürstentums des Malimoors
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Sumpfsent|Sumpfsent]]
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Hexenhain|Hexenhain]]
 
-- [[Imperiale Städte/St. Elyas|St. Elyas]], Hauptstadt des Fürstentums Vantanis, primärer Handelshafen im Westen
+- [[Kampagne 1/Organisationen/Imperiale Städte/St. Elyas|St. Elyas]], Hauptstadt des Fürstentums Vantanis, primärer Handelshafen im Westen
 
 - Inselbaronien am Malimoor
-- [[Imperiale Städte/Durmista|Durmista]],Hauptstadt des gleichnamigen Fürstentums im Dämmerwald
-	- [[Imperiale Städte/Saveland|Saveland]] Geburtsort der kürzlich verstorbenen Anna von Saveland, größte menschliche Siedlung in Durmista
+- [[Kampagne 1/Organisationen/Imperiale Städte/Durmista|Durmista]],Hauptstadt des gleichnamigen Fürstentums im Dämmerwald
+	- [[Kampagne 1/Organisationen/Imperiale Städte/Saveland|Saveland]] Geburtsort der kürzlich verstorbenen Anna von Saveland, größte menschliche Siedlung in Durmista
 
-- [[Imperiale Städte/Esteras|Esteras]], unabhängige Festungsstadt am Silbersee, Sitz der Silbernen Templer
+- [[Kampagne 1/Organisationen/Imperiale Städte/Esteras|Esteras]], unabhängige Festungsstadt am Silbersee, Sitz der Silbernen Templer
 - Schwarzfels, unabhängige Festungsstadt am Kalten Stillwasser, Sitz der Nachtwache
 	- Lichtwacht, Imperiales Tor des Nachtpass
 - Fort Lanwehr, unabhängige Festungs- und Grenzstadt zu den Wilden Landen, Sitz des Orden der Roten Speere

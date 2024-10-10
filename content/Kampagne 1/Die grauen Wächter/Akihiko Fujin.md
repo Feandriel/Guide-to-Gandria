@@ -1,0 +1,7 @@
+[[../Ultima/Ren Futen]]
+[[../Organisationen/Die grauen Wächter]]
+[[../Nibinal]]
+[[../Organisationen/Imperialer Adel/Labin Le'Noir]]
+[[../Organisationen/Imperialer Adel/Breri]]
+[[Fujin]]
+[[../Titanen/Siluris, Titan des Schattens]]

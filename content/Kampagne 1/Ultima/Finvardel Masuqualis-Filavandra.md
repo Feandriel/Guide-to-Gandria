@@ -1,0 +1,14 @@
+### "Das Licht in der Dunkelheit"
+
+  
+
+Finvardel Masuqualis-Filavara, ein Paladin im Dienste [[Iomedae]]'s, Held der südlichen Elfenreiche und des Imperiums, Bezwinger des Titanen der Dunkelheit und das letzte Licht Iomedae's. Er gilt als das Gesicht der Helden, auch wenn schnell erkennbar ist, dass dies nur für die Öffentlichkeit und offizielle Einladungen an Höfe oder sonstiges galt.
+
+Er hat aus seiner Verehrung Iomedae's kein Geheimnis gemacht und trug alle seine wichtigen Besitztümer mit ihrer Insignie verziert. Am berühmtesten und häufigsten sind Darstellungen vom ihm mit seinem Schwert, der Sonnenklinge, und seinem Schild, Iomedae's Aegis. Er ist aber auch sonst unschwer zu erkennen, an seiner schweren Rüstung, oder seinem Mantel, welche beide ebenfalls mit der Insignie Iomedae's versehen sind. Infolge seines Glaubens opferte er sich bereits vor und natürlich auch nach seinem Beitritt zu den 6 für die Gesellschaft auf und gab sein bestes Gefahren für die Bevölkerung zu mindern.
+
+  
+
+Manche würden ihn als arrogant und selbstverliebt beschreiben, es lässt sich jedoch nicht verleugnen, dass er hilfsbereit und aufopfernd war, teilweise auch bis zu seinem eigenen Verderben. Einst rief ihn in [[../Organisationen/Imperiale Städte/Andoras]] eine Maid zur Hilfe, da ihr Haus von Goblins und anderem niederen Ungeziefer bedroht werden würde. Dort angekommen fand er nur eine nackte Dame vor und die Lady in Not ließ auch sofort ihre Hüllen fallen. Der heimkehrende Hausherr attackierte ihn in Eifersucht und, in seinem Stolz verletzt und körperlich angegriffen, erschlug Finvardel den Mann aus Versehen. Sein Kamerad Ren ließ zweifellos keine Chance aus um diese Geschichte vorzutragen und mit den Jahren wurden die nackten Damen stets zahlreicher.
+
+Finvardel, gläubig und gutherzig wie er war, ging ein halbes Jahr auf Pilgerschaft um Buße zu tun. Aber das war auch nicht der letzte seiner Fehltritte. 
+Durch die akribische Arbeit [[Ren Futen]]'s konnte festgehalten werden das Finvardel außerdem, eine Familie Gnolle erschlug die vor einem Sturm Schutz in einer Scheune suchten, dass er bei der Rettung eines Adelsjungen vor einem Vampir, besagten Adelsjungen pfählte und vernichtete, bevor er den Vampir tötete da er diesen im Glauben es sei die Geisel ins Tageslicht zerrte, einen Minotauren mit göttlicher Kraft mitten auf dem Feld tötete, auf dem dieser seine Arbeit verrichtete und einige andere bedauernswerte Zufälle und Taten. Finvardel starb auf einer seiner Pilgerreisen und das Grab das ihm zu Ehren in den elfischen Reichen errichtet wurde, wird trotz allem gern besucht, vorallem von den Anhängern seines Glaubens und Mitglieder der Familie [[Masuqualis]], welche auch nach Finvardel den Status der Heroldsfamilie Iomedae's inne hält.
