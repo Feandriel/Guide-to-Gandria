@@ -41,4 +41,4 @@ Mid hyht, we wēatan þæt tō cymen,
 In Iknabos nama, ealle þing synt onwonnen.
 
 ##### Leiche eines Erstgeborenen
-Mutige Abenteurer fanden auf einer Expedition einige Überreste von frühen Menschen, Elfen und Halblingen. Deren Körper waren von innen heraus verbrannt und blieben als bloße Hülle zurück, welche sich nicht zu zersetzen zu scheint. Es handelt sich dabei wohl um die Überreste der ersten Flammen-Geborenen, wie man die von Iknabo erschaffenen Schlächter und Kriegstruppen nennt. Es wird angenommen, dass aus den Überbleibseln dieser vergangen Truppen die heutigen Suli entstanden, welche die [[Tilodan]] und [[Sulani]] bewohnen
+Mutige Abenteurer fanden auf einer Expedition einige Überreste von frühen Menschen, Elfen und Halblingen. Deren Körper waren von innen heraus verbrannt und blieben als bloße Hülle zurück, welche sich nicht zu zersetzen zu scheint. Es handelt sich dabei wohl um die Überreste der ersten Flammen-Geborenen, wie man die von Iknabo erschaffenen Schlächter und Kriegstruppen nennt. Es wird angenommen, dass aus den Überbleibseln dieser vergangen Truppen die heutigen Suli entstanden, welche die [[../../Tilodan]] und [[../../Sulani]] bewohnen
