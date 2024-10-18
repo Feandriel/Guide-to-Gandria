@@ -1,0 +1,5 @@
+![[content/Bilder/Vylnarra_Ängelsdottir.png]]
+
+Die Tochter von [[content/Kampagne 2/Eismänner/Jarl Nerestina Ängelsdottir|Nerestina  der Grünen]] und eines namentlich unbekannten Eiselfen, ist Vylnarra beinahe eine perfekte Imitation ihrer Mutter. Ihre Augen sind von einem strahlend hellen grün und ihre Haare sind mehr wie gegossenes Silber, statt des silbrigen Weiß ihrer Mutter, und ihre Haut weißt eine vereinnahmende Blässe auf, welche den Betrachter fesselnd in den Bann zieht. Doch muss niemand fragen wer ihre Mutter ist, oder generell welcher Familie sie entstammt, denn die Ähnlichkeit ist verblüffend und noch deutlicher als die von Nerestina zu ihrer Mutter.
+
+Vylnarra wird seit kleinauf als angehende Jarl des Clan der [[content/Kampagne 2/Eismänner/Clan Valkyren|Valkyren]] ausgebildet und erhält privaten Unterricht um den Umgang mit ihren angeborenen magischen Kräften zu lernen. Sie entwickelt sich zu einer hervorragenden Sorceress, welche wohl bald den Titel ihrer Mutter erben wird.

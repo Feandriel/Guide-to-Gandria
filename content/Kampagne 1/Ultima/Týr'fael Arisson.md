@@ -2,7 +2,7 @@
 
   
 
-Ein Krieger der seinesgleichen sucht. Auf einem Auge blind, geschwächt durch den Verlust seines dominanten Arm und trotzdem ungeschlagen und unerreicht ist Týr'fael [[../../Kampagne 2/Eismänner/Arisson]] einer der 6 Helden, welche die Schatten in die Knie zwangen und den Titan der Dunkelheit am Ende versiegelten. Entgegen der Erwartungen, ist er trotz seines Bartwuchs und seiner kräftigen Statur ein reiner Elf, zumindest nach eigenen Aussagen. Historiker vermuten jedoch das irgendwo in seiner Ahnenreihe ein Zwerg oder zwei stecken.
+Ein Krieger der seinesgleichen sucht. Auf einem Auge blind, geschwächt durch den Verlust seines dominanten Arm und trotzdem ungeschlagen und unerreicht ist Týr'fael [[../../Kampagne 2/Eismänner/Clan Arisson]] einer der 6 Helden, welche die Schatten in die Knie zwangen und den Titan der Dunkelheit am Ende versiegelten. Entgegen der Erwartungen, ist er trotz seines Bartwuchs und seiner kräftigen Statur ein reiner Elf, zumindest nach eigenen Aussagen. Historiker vermuten jedoch das irgendwo in seiner Ahnenreihe ein Zwerg oder zwei stecken.
 
 Týr'fael kämpfte mit allen ihm zur Verfügung stehenden Waffen, bevorzugte aber Axt und Schwert, besonders das Langschwert. Seine Legende wächst durch die Taten, die jedem bei Verstand unmöglich erscheinen, zum Beispiel das Niederringen eines ausgewachsenen Trolls mit bloßer Hand. 
 
