@@ -1,0 +1,1 @@
+![[../../Bilder/sverre_vittulfr.png]]

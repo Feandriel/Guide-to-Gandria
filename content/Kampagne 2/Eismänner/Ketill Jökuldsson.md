@@ -1,0 +1,5 @@
+![[../../Bilder/Ketill.png]]
+
+Ein einfacher Mann mit moderaten Erfolgen in der Schlacht, aber sehr guten Beziehungen und einem guten Verständnis der Verwaltung und der Führung von Ländereien, Clans und Ortschaften. Er dient dem [[König Brandt Arisson|König]] treu und agiert sowohl als Berater, zusätzlich zu und losgelöst von den Jarls und deren eigenen Plänen, als auch als Marschall und Stimme innerhalb der Stadt. 
+
+Ketill ist als ehrlich und vertrauensvoll bekannt, ein Mann auf den man sich verlassen kann und jemand dem man nicht schaden sollte. Nicht, weil er selbst besonders gefährlich ist, sondern weil andere, sehr viel gefährlichere Leute, dies bestrafen könnten. Er genießt ein hohes Ansehen und betrachtet die Dinge stets rational und objektiv. Sein [[Halfdan Ketillson|jüngster Sohn]] scheint in diese Fußstapfen folgen zu wollen und Ketill ist seit jeher nur noch in Begleitung seines Sohnes am Hof unterwegs.
