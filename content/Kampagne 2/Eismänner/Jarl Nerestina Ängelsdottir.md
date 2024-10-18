@@ -1,4 +1,4 @@
-![[../../Bilder/Nerestina_Ängelsdottir.png]]
+![[Bilder/Nerestina_Ängelsdottir.png]]
 
 Königin der Eismänner, Frau von [[König Brandt Arisson]] und Jarl ihres eigenen [[Clan Valkyren|Clans]]. Nerestina ist eine wahrhaft mächtige Frau, führt sie auch noch die geisterhaften Winterkriegerinnen an, welche auf den Sonneninseln dafür bekannt sind den Winter mit sich zu bringen wenn sie angreifen.
 

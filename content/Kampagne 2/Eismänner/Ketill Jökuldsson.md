@@ -1,4 +1,4 @@
-![[../../Bilder/Ketill.png]]
+![[Bilder/Ketill.png]]
 
 Ein einfacher Mann mit moderaten Erfolgen in der Schlacht, aber sehr guten Beziehungen und einem guten Verständnis der Verwaltung und der Führung von Ländereien, Clans und Ortschaften. Er dient dem [[König Brandt Arisson|König]] treu und agiert sowohl als Berater, zusätzlich zu und losgelöst von den Jarls und deren eigenen Plänen, als auch als Marschall und Stimme innerhalb der Stadt. 
 

@@ -1,1 +1,1 @@
-![[../../Bilder/sverre_vittulfr.png]]
+![[Bilder/sverre_vittulfr.png]]

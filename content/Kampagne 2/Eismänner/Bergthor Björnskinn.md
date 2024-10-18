@@ -1,4 +1,4 @@
-![[../../Bilder/bergthor.png]]
+![[Bilder/bergthor.png]]
 
 Der "Vater"; oder Patriarch, der Björnskinn, dem Clan der Schneebären. Er ist ein sanfter Riese, dessen gigantische Statur und stoisches Aussehen ihm einen gefürchteten Ruf eingebracht haben. Er gilt als strenger aber fairer Führer, welcher sich loyal und demütig den Clans und ihren Gesetzen beugt, aber auch unbeugsam und unnachgiebig für die Rechte, Ruhe und das Wohlergehen seiner Familie einsetzt.
 

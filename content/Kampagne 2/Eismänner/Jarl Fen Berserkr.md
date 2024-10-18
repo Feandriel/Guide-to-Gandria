@@ -1,4 +1,4 @@
-![[../../Bilder/Fen_Berserkr.png]]
+![[Bilder/Fen_Berserkr.png]]
 
 Anführer des [[Clan Berserkr]] und einer der wenigen Berserker die Vertrauen genießen, sei es von den anderen Jarls oder der allgemeinen Bevölkerung. Er hat seine Wut, seine Blutlust und seine Instinkte so sehr unter Kontrolle, dass man manchmal vergisst wer er ist. 
 
