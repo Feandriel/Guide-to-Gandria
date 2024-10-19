@@ -1,0 +1,7 @@
+![[Bilder/Arduín Map.png]]
+
+Der Arduín, in der gemeinen Zunge Großer Fluss genannt, entspringt im Flüstergebirge nahe der Stadt Urma und fließt dann gen Süden. Die Siedlungen Lilacswacht und Oberbach wurden direkt am Fluss erbaut und sind über diesen erreichbar.
+
+Nachdem der Arduín durch Oberbach geflossen ist, teilt er sich und die jeweiligen Arme wurden der Genauigkeit halber ebenfalls getauft. Der Renduín (in der gemeinen Zunge Westfluss genannt) fließt wenig überraschend nach Westen und fließt an den Siedlungen Velin, Avelbach und Mahr vorbei, bevor er tosend in die Tiefen von Thalassia's Kessel stürzt. Der Lamduín (in der gemeinen Zunge Ostfluss genannt) fließt in den Osten, beziehungsweise Süden, und führt an den Siedlungen Unterbach, Bluming, Raldorei, Nulendorei, Cyrandorei, Galyendorei und Yfethis vorbei. Beide Arme des Arduín werden außerdem durch den Shantarduín verbunden, welcher in der gemeinen Zunge Waldwasser genannt wird. Dieser verbindet Avelbach, Albwacht und Bluming miteinander und bildet die südliche Grenze des Imperiums zum elfischen Reich Cysion.
+
+Alle drei Flüße, der Lamduín, Renduín und Shantarduín werden zum Arduín gezählt, auch wenn der Shantarduín tatsächlich eine eigene Quelle besäße.
