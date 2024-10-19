@@ -24,7 +24,7 @@ darkmode: false ### marker
  
  
 ### Beschreibung
-![[../../../Bilder/seefels.png]]
+![[../../Bilder/seefels.png]]
 
 Seefels ist ein kleines Dorf am Ostufer des Sees, unter der Kontrolle der Ad-Torre Familie. Es ist die letzte Siedlung vor der Grenze zu Urma und fungiert als Weizen- und Fischlieferant für Ad-Torrei und, durch Handel, auch für Urma. 
 

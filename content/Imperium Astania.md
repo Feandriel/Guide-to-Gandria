@@ -8,50 +8,53 @@ Im Norden bildet das ewige Eis zusammen mit den Winterklüften eine natürliche 
 
 
 #### Astanische Städte und Dörfer
-- [[Kampagne 1/Organisationen/Imperiale Städte/Adriona|Adriona]], Imperiale Hauptstadt, Hauptsitz der Kaiserfamilie
+- [[Kampagne 1/Imperiale Städte/Adriona|Adriona]], Imperiale Hauptstadt, Hauptsitz der Kaiserfamilie
 	- Astoria
 	- Flusswald
 	- Hügelfeste
 	- Sonnwacht
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/Ad-Torrei|Ad-Torrrei]], Hauptstadt des Herzogtums der Drei-Fluss-Ebene
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Seefels|Seefels]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Valenfeld|Valenfeld]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Eren|Eren]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Belt|Belt]]
+- [[Kampagne 1/Imperiale Städte/Ad-Torrei|Ad-Torrrei]], Hauptstadt des Herzogtums der Drei-Fluss-Ebene
+	- [[Kampagne 1/Imperiale Städte/Seefels|Seefels]]
+	- [[Kampagne 1/Imperiale Städte/Valenfeld|Valenfeld]]
+	- [[Kampagne 1/Imperiale Städte/Eren|Eren]]
+	- [[Kampagne 1/Imperiale Städte/Belt|Belt]]
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/Andoras|Andoras]], Hauptstadt des gleichnamigen Herzogtums
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Endera|Endera]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Lunaroí|Lunaroí]]
+- [[Kampagne 1/Imperiale Städte/Andoras|Andoras]], Hauptstadt des gleichnamigen Herzogtums
+	- [[Kampagne 1/Imperiale Städte/Endera|Endera]]
+	- [[Kampagne 1/Imperiale Städte/Lunaroí|Lunaroí]]
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/Urma|Urma]], Hauptstadt des gleichnamigen Herzogtums 
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Lilacswacht|Lilacswacht]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Wesnear|Wesnear]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Kaltabroich|Kaltabroich]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Flüsterfeste|Flüsterfeste]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Rabenfels|Rabenfels]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Mondklamm|Mondklamm]]
+- [[Kampagne 1/Imperiale Städte/Urma|Urma]], Hauptstadt des gleichnamigen Herzogtums 
+	- [[Kampagne 1/Imperiale Städte/Lilacswacht|Lilacswacht]]
+	- [[Kampagne 1/Imperiale Städte/Wesnear|Wesnear]]
+	- [[Kampagne 1/Imperiale Städte/Kaltabroich|Kaltabroich]]
+	- [[Kampagne 1/Imperiale Städte/Flüsterfeste|Flüsterfeste]]
+	- [[Kampagne 1/Imperiale Städte/Rabenfels|Rabenfels]]
+	- [[Kampagne 1/Imperiale Städte/Mondklamm|Mondklamm]]
+	- [[Kampagne 1/Imperiale Städte/Oberbach|Oberbach]]
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/Kraë'rath|Kraë'rath]], Hauptstadt des Herzogtums Astan, Magierzitadelle des Reiches
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Atnahr|Atnahr]], Grenzstadt im Herzogtum Astan
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Mahr|Mahr]]
+- [[Kampagne 1/Imperiale Städte/Kraë'rath|Kraë'rath]], Hauptstadt des Herzogtums Astan, Magierzitadelle des Reiches
+	- [[Kampagne 1/Imperiale Städte/Atnahr|Atnahr]], Grenzstadt im Herzogtum Astan
+	- [[Kampagne 1/Imperiale Städte/Mahr|Mahr]]
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/Silvara|Silvara]], Hauptstadt des Fürstentums der Höggelschlucht 
+- [[Kampagne 1/Imperiale Städte/Silvara|Silvara]], Hauptstadt des Fürstentums der Höggelschlucht 
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/Balerno|Balerno]], Hauptstadt des Fürstentums des Malimoors
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Sumpfsent|Sumpfsent]]
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Hexenhain|Hexenhain]]
+- [[Kampagne 1/Imperiale Städte/Balerno|Balerno]], Hauptstadt des Fürstentums des Malimoors
+	- [[Kampagne 1/Imperiale Städte/Sumpfsent|Sumpfsent]]
+	- [[Kampagne 1/Imperiale Städte/Hexenhain|Hexenhain]]
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/St. Elyas|St. Elyas]], Hauptstadt des Fürstentums Vantanis, primärer Handelshafen im Westen
+- [[Kampagne 1/Imperiale Städte/St. Elyas|St. Elyas]], Hauptstadt des Fürstentums Vantanis, primärer Handelshafen im Westen
 
 - Inselbaronien am Malimoor
-- [[Kampagne 1/Organisationen/Imperiale Städte/Durmista|Durmista]],Hauptstadt des gleichnamigen Fürstentums im Dämmerwald
-	- [[Kampagne 1/Organisationen/Imperiale Städte/Saveland|Saveland]] Geburtsort der kürzlich verstorbenen Anna von Saveland, größte menschliche Siedlung in Durmista
+- [[Kampagne 1/Imperiale Städte/Durmista|Durmista]],Hauptstadt des gleichnamigen Fürstentums im Dämmerwald
+	- [[Kampagne 1/Imperiale Städte/Saveland|Saveland]] Geburtsort der kürzlich verstorbenen Anna von Saveland, größte menschliche Siedlung in Durmista
 
-- [[Kampagne 1/Organisationen/Imperiale Städte/Esteras|Esteras]], unabhängige Festungsstadt am Silbersee, Sitz der Silbernen Templer
+- [[Kampagne 1/Imperiale Städte/Esteras|Esteras]], unabhängige Festungsstadt am Silbersee, Sitz der Silbernen Templer
 - Schwarzfels, unabhängige Festungsstadt am Kalten Stillwasser, Sitz der Nachtwache
 	- Lichtwacht, Imperiales Tor des Nachtpass
 - Fort Lanwehr, unabhängige Festungs- und Grenzstadt zu den Wilden Landen, Sitz des Orden der Roten Speere
 	- Burg Dunkelforst, Schwarzpfeile
 	- Burg Wasserwacht
 
+- [[Kampagne 1/Imperiale Städte/Velin|Velin]], Sitz der Familien Bunder und Shadu
+	- 

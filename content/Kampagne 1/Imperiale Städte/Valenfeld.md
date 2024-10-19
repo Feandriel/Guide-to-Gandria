@@ -19,7 +19,7 @@ darkmode: false ### marker
 ```
 
 ### Beschreibung
-![[../../../Bilder/valenfeld.png]]
+![[../../Bilder/valenfeld.png]]
 
 Valenfeld liegt Seefels gegenüber am anderen Ufer des Sees. Es besitzt einige kleine Anlegestellen für Fischerboote und ist sonst umgeben von Feldern, kleineren Hainen und Wäldern. Die Anwohner leben ein ruhiges Leben, mit wenig Reichtum, erfreuen sich aber des Luxus einer kleineren Kapelle im Dorf. Diese ist auch deutlich dringender benötigt, denn aufgrund der lokalen Probleme mit Goblins und hungrigen Tieren, gibt es oft Verletzte unter der relativ großen Stadtwache.
 

@@ -6,4 +6,4 @@ Ein Krieger der seinesgleichen sucht. Auf einem Auge blind, geschwächt durch de
 
 Týr'fael kämpfte mit allen ihm zur Verfügung stehenden Waffen, bevorzugte aber Axt und Schwert, besonders das Langschwert. Seine Legende wächst durch die Taten, die jedem bei Verstand unmöglich erscheinen, zum Beispiel das Niederringen eines ausgewachsenen Trolls mit bloßer Hand. 
 
-Nach dem Sieg über den Schatten sicherte auch er etwas. Zeitlich gesehen war er, so ungewöhnlich es klingen mag, der erste der 6 der verstarb oder verschwand, als er genau ein Jahr nach seiner Rückkehr verschwand. Zuletzt gesehen wurde er im [[../Organisationen/Monumente/Silver Spire]], wo er eine Schrift zurückgab, welche er sich aus der Bibliothek der vereinten imperialen Räte geliehen hatte.
+Nach dem Sieg über den Schatten sicherte auch er etwas. Zeitlich gesehen war er, so ungewöhnlich es klingen mag, der erste der 6 der verstarb oder verschwand, als er genau ein Jahr nach seiner Rückkehr verschwand. Zuletzt gesehen wurde er im [[../Monumente/Silver Spire]], wo er eine Schrift zurückgab, welche er sich aus der Bibliothek der vereinten imperialen Räte geliehen hatte.

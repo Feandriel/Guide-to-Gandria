@@ -1,1 +1,1 @@
-[[Kampagne 1/Organisationen/Imperiale Städte/Andoras]]
+[[Imperiale Städte/Andoras]]
