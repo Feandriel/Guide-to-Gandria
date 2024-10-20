@@ -19,6 +19,7 @@ Im Norden bildet das ewige Eis zusammen mit den Winterklüften eine natürliche 
 	- [[Kampagne 1/Imperiale Städte/Valenfeld|Valenfeld]]
 	- [[Kampagne 1/Imperiale Städte/Eren|Eren]]
 	- [[Kampagne 1/Imperiale Städte/Belt|Belt]]
+	- Ruinen von Resdoras
 
 - [[Kampagne 1/Imperiale Städte/Andoras|Andoras]], Hauptstadt des gleichnamigen Herzogtums
 	- [[Kampagne 1/Imperiale Städte/Endera|Endera]]
@@ -45,7 +46,10 @@ Im Norden bildet das ewige Eis zusammen mit den Winterklüften eine natürliche 
 
 - [[Kampagne 1/Imperiale Städte/St. Elyas|St. Elyas]], Hauptstadt des Fürstentums Vantanis, primärer Handelshafen im Westen
 
-- Inselbaronien am Malimoor
+- [[Kampagne 1/Imperiale Städte/Die drei Schwestern|Graulicht]], eine Stadt innerhalb der Inseln Der drei Schwestern am Malimoor
+	- [[Kampagne 1/Imperiale Städte/Nebelfurt|Nebelfurt]]
+	- [[Kampagne 1/Imperiale Städte/Stunk|Stunk]]
+- [[Kampagne 1/Imperiale Städte/Halandshafen|Halandshafen]], die Stadt auf der Insel Haland in der gleichnamigen Baronie
 - [[Kampagne 1/Imperiale Städte/Durmista|Durmista]],Hauptstadt des gleichnamigen Fürstentums im Dämmerwald
 	- [[Kampagne 1/Imperiale Städte/Saveland|Saveland]] Geburtsort der kürzlich verstorbenen Anna von Saveland, größte menschliche Siedlung in Durmista
 
@@ -57,4 +61,4 @@ Im Norden bildet das ewige Eis zusammen mit den Winterklüften eine natürliche 
 	- Burg Wasserwacht
 
 - [[Kampagne 1/Imperiale Städte/Velin|Velin]], Sitz der Familien Bunder und Shadu
-	- 
+- [[Kampagne 1/Imperiale Städte/Avelbach|Avelbach]], neu gegründetes Dorf des jungen Freiherren Avel Satorin III.
