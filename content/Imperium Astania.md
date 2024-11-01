@@ -1,4 +1,55 @@
 ### Geschichte
+Das Imperium wurde am 10. Kuthona 407 der dritten Ära von Lord Theodoricus Aeternum Astan dem Ersten ausgerufen, nachdem er die Stadt Resdoras, bis dato Hauptstadt des Reiches Redania, in einer Belagerung vom 7. bis zum 12. Neth in Schutt und Asche gelegt hatte und den umliegenden Königreichen nach und nach ein Ultimatum gestellt hatte. Er vereinte so mehrere Königreiche und unabhängige Staaten und beanspruchte so die Herrschaft über den Norden Gandrias. Natürlich blieben Kämpfe nach der Vernichtung von Resdoras nicht komplett aus, und so ist der Ausruf des Imperiums und seiner Territorien ein reine Formalität.
+
+#### Kriege des Imperiums und seiner Untertanen
+- Gründungskrieg von 23. Rova 407 bis 17. Kuthona 407 gegen : die Königreiche Redania, Vantanis, Urma und das Rätereich Balerno & die Unabhängigen Städte der Westlichen Handelsföderation St. Elyas, (heutiges) Velin und Silvara
+- 416 3. Ära
+	- Blutkrieg, Nereril gegen Imperium
+- 423 3.Ära
+	- Haland gegen Drei-Schwestern
+- 537 3. Ära
+	- Drei-Schwestern gegen Haland
+	- Erste Solomon-Rebellion, Fürstentum Solomon gegen das Imperium
+- 539 3.Ära
+	- Erste Silberkrieg, Die Orks der Lakeside Region gegen Silvara
+- 553 3.Ära 
+	- Drei-Fluss-Befriedung bis 555, Fürstentum Ad-Torre gegen Baronie O'Riagáin und O'Belios => Gründung Herzogtum Ad-Torre
+- 573 3.Ära
+	- Steinriesenclans gegen Urma
+	- Haland gegen Drei-Schwestern
+- 574 3.Ära 
+	- Grenzdisput, Amdorias gegen Imperium
+	- Zweiter Silberkrieg, Die Orks der Lakeside Region gegen Silvara
+- 576 3.Ära
+	- Steinriesenclans gegen Urma
+	- Dunkelforstkrieg, Silvara und Imperium gegen die Reiterclans und Orks der Lakeside Region
+- 599 3.Ära
+	- Titanensturm, Siluris gegen Urma
+- 639 3.Ära 
+	- Magierrevolte, Abtrünnige Magier gegen Kraë'raths Acadamae Chaos
+	- Erster Nachtkrieg, Nereril gegen Räterepublik Balerno
+- 642 3.Ära
+	- Zweite Solomon-Rebellion, Fürstentum Solomon gegen das Imperium
+- 650 3.Ära
+	- Handelsdisput, Imperium gegen Amdorias (Monetarer Krieg)
+	- Krieg der wandelnden Toten, Fürstentum Solomon gegen Ratsrepublik Balerno  => Legende des Schattenmonarch und Neutralitätsschwur der Monarchen
+- 672 3.Ära
+	- Große Drachenkreuzzug, Imperiale Drachenjagd
+- 702 3.Ära
+	- Durmista-Krieg, Bürgerkrieg im Hause Durmista
+- 768 3.Ära 
+	- Harpyien-Kampagne, Urma gegen Flüsterharpyien
+	- Dritte Solomon-Rebellion, Fürstentum Solomon gegen das Imperium => Aberkennung des Fürstenstands, Bruch aller Handelsrouten nach Norden
+- 770 3.Ära
+	- Ad-Torre-Krieg, Bürgerkrieg zwischen den Erben
+	- Unterbergkrieg, Duergar gegen Andoras
+- 953 3.Ära
+	- Wüstenwindkrieg, Imperium gegen das Zwergenreich Tar Ungraah und die Nomaden der Wüste => Aufrüstung der Fortstadt Atnahr, Mithralrechte
+- 957 3.Ära
+	- Goblinkampagne, Ad-Torre gegen Goblinclans
+	- Zweiter Dunkelforstkrieg, Reiterclans gegen das Imperium
+- 975 3.Ära
+	- [[content/Historische Ereignisse/Schattenkrieg|Schattenkrieg]], Imperium gegen Baronie Solomon => Abspaltung des Solomon-Reichs
 
 ### Geographische Grenzen
 Das astanische Imperium erstreckt sich über weite Teile des nordöstlichen Teils von Gandria. Es wird im Westen begrenzt durch das Schwarze Meer und endet dadurch an der Küste, beziehungsweise an der Götterfallbucht an den Ufern des in die Bucht mündenden Flusses, dem "[[Flinkwasser]]". Innerhalb der Götterfallbucht kontrolliert das Imperium auch zwei der drei Inseln, welche aufgrund ihrer Form als die Fünf-Finger-Inseln bekannt sind.
