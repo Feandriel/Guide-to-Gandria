@@ -49,7 +49,7 @@ Das Imperium wurde am 10. Kuthona 407 der dritten Ära von Lord Theodoricus Aete
 	- Goblinkampagne, Ad-Torre gegen Goblinclans
 	- Zweiter Dunkelforstkrieg, Reiterclans gegen das Imperium
 - 975 3.Ära
-	- [[content/Historische Ereignisse/Schattenkrieg|Schattenkrieg]], Imperium gegen Baronie Solomon => Abspaltung des Solomon-Reichs
+	- [[Historische Ereignisse/Schattenkrieg|Schattenkrieg]], Imperium gegen Baronie Solomon => Abspaltung des Solomon-Reichs
 
 ### Geographische Grenzen
 Das astanische Imperium erstreckt sich über weite Teile des nordöstlichen Teils von Gandria. Es wird im Westen begrenzt durch das Schwarze Meer und endet dadurch an der Küste, beziehungsweise an der Götterfallbucht an den Ufern des in die Bucht mündenden Flusses, dem "[[Flinkwasser]]". Innerhalb der Götterfallbucht kontrolliert das Imperium auch zwei der drei Inseln, welche aufgrund ihrer Form als die Fünf-Finger-Inseln bekannt sind.
