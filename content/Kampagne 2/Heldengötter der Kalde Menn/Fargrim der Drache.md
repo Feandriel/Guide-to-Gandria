@@ -10,7 +10,7 @@ Vor seinem Tod war Fargrim ein rauer Mann, mit unzähmbarem braunen Haar und ste
 Als ein rein nordischer und vergleichsweise junger Gott hat er wenig Berührungspunkte mit Göttern anderer Pantheons. Er arbeitet gerne mit allen Göttern des nordischen Pantheons und sieht diese als enge Verbündete im Kampf gegen die Dunkelheit die sein Volk bedroht.
 
 #### Anhängerschaft
-
+Fargrim wird vorallem von seinen Nachkommen verehrt, aber auch Krieger die einen Einblick in die magischen Künste suchen beten zu ihm.
 
 #### Religiöse Fakten
 ![[Bilder/Fargrim_symbol.png]]
