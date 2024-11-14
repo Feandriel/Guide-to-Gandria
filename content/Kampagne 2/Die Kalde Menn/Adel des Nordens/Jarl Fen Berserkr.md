@@ -1,6 +1,6 @@
 ![[Bilder/Fen_Berserkr.png]]
 
-Anführer des [[Clan Berserkr]] und einer der wenigen Berserker die Vertrauen genießen, sei es von den anderen Jarls oder der allgemeinen Bevölkerung. Er hat seine Wut, seine Blutlust und seine Instinkte so sehr unter Kontrolle, dass man manchmal vergisst wer er ist. 
+Anführer des [[../Die Clans/Clan Berserkr]] und einer der wenigen Berserker die Vertrauen genießen, sei es von den anderen Jarls oder der allgemeinen Bevölkerung. Er hat seine Wut, seine Blutlust und seine Instinkte so sehr unter Kontrolle, dass man manchmal vergisst wer er ist. 
 
 Vor 4 Jahren galt er für lange Zeit als verschollen, nachdem er als einer der wenigen Berserker nicht von den Plünderfahrten zurückkehrte, doch er erweiterte bloß seine Saga um die unmögliche Erzählung, welche sich nach seiner Rückkehr wie ein Lauffeuer in der Stadt verbreitete.
 

@@ -4,5 +4,5 @@
 [[../Imperiale Städte/Atnahr]]
 [[../Organisationen/Kämpfer der Abendröte]]
 [[../Omega]]
-[[../Phönicia]]
+[[../Imperialer Adel/Phönicia]]
 [[../Titanen/Siluris, Titan des Schattens]]

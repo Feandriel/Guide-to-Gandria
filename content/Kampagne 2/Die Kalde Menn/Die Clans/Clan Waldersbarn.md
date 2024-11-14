@@ -1,0 +1,17 @@
+### Die Kinder des Waldes...
+
+sind all jene die geborene Hautwechsler sind. Zu welchem Clan auch immer sie sich letztendlich gehörig fühlen ist dem Wald und seinen Kindern dabei egal, doch viele ziehen sich aus den Affären ihres Heimatclans zurück und treten dem Rudel der Eiswölfe oder der Familie der Schneebären bei. Die 5 großen Familien oder Clans dulden diese Bildung eines weiteren Clans auf dem Territorium der [[Clan Vittulfr|Vittulfr]], solange sich an die geltenden Gesetze gehalten wird und niemand zu Schaden kommt. Egal ob jemand zu den Eiswölfen, oder den Schneebären zählt, seit jeher gibt niemand das Geschenk ihrer Kraft an Außenstehende weiter. Durch die lange Isolation dieser Kraft durch seine Träger und die
+
+#### Die Eiswölfe
+
+Das Rudel der Eiswölfe wird von [[../Ylvarra Schneesängerin|Ylvarra Schneesängerin]] geführt, einer elfischen Hexe welche den Winter im Blut trägt. Sie gilt als spiritueller Anker und Rudelmutter für die Hautwechsler und vertritt diese in Angelegenheiten die Außenseiter betreffen. Sie gilt zwar als sonderbar und geistesabwesend, doch wenigstens bleiben Zusammentreffen mit ihr so stets interessant. Sie führt ausnahmslos alle Wölfe sowohl auf Raubzüge als auch einmal im Mond in die Eiswüste hinaus. Glaubt man den Gruselgeschichten die manche Leute ihren ungezogenen Kindern erzählen, so verschwinden um diese Zeit des Mondes herum auch gerne einige Männer und Frauen denen man nachsagt einem Eiswolf übel aufgestoßen zu sein.
+
+#### Die Schneebären
+
+Die Schneebären haben einen engen Zusammenschluss gegründet und betrachten sich generell als Familie. Ihr aktuelles Oberhaupt [[../Bergthor Björnskinn|Bergthor Björnskinn]] ist ein Mann mit einer scheinbar endlosen Geduld und schier endlosen Ausdauer und Wut. Seine Familie wohnt in den Ausläufern der Stadt, nahe des Hafen und des Weges ins Eis und schützt die Stadt vor wilden Eindringlingen und die Eiswüste vor übermütigen Jugendlichen. Er zögert nicht die Ehre und Haut der anderen Bären zu schützen, kennt jeden anderen Schneebären persönlich (was ihm bereits einige interessante Narben einbrachte) und ist dafür bekannt keinerlei Gnade zu zeigen sollte jemand die Geduld seiner Familie ausnutzen.
+
+#### Einzelgänger
+
+Während es solche gibt die einfach bei den 5 großen Clans bleiben und daher als Einzelgänger zählen, gibt es auch solche die freiwillig ins Exil gezogen sind oder sich in abgelegenere Gegenden der Höhle zurückgezogen haben. Diese Einzelgänger sind meist Schneebären, welche die Einsamkeit bevorzugen oder, wie im Falle von [[../Adel des Nordens/Hard Berserkr|Hard Berserkr]] sehr gerechtfertigt, sich selbst als Gefahr für andere sehen und schlechte Erfahrungen mit ihrer Natur gemacht haben. Trifft man sie innerhalb der Stadt an, so ziehen die Leute es vor ihnen respektvoll aus dem Weg zu gehen.
+
+Eiswölfe die ein Leben als Einzelgänger wählen sind meist gebrochene Persönlichkeiten, welche die Natur zu sehr hören, als das sie innerhalb der Stadt im Rudel überleben könnten. Man sieht diejenigen die diesen Weg wählen in sehr vereinzelten Fällen auf Streifzügen durch die Eiswüste, wobei von vielen Jägern davor gewarnt wird diesen zu nahe zu kommen, da diese genauso auf der Jagd sind wie man selbst. Einsame Wölfe sind jedoch sehr selten und die Male die dies seit der Gründung der Stadt vorgekommen ist kann man noch immer an den Händen zweier gesunder Kinder abzählen.
