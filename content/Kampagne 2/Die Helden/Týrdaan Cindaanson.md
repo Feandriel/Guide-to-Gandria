@@ -12,7 +12,7 @@ Das Kind wurde vom Finder in den [[Die Clans/Clan Arisson|Clan der Söhne des D
 So wurde das Kind, das am Tag des Týr (Dienstag, 14 Calistril 884 ) nach Varmog Gronn gebracht wurde, Týrdaan genannt und verbrachte seine Kindheit bei den Söhnen des Drachen und bei seiner neuen Familie.
 Mit 76 sah Týrdaan, wie sich die älteren Kinder im Dorf bereit machten, ihren Initiationsritus anzutreten. Als Týrdaan sich ihnen anschließen wollte, wurde von er verspottet, da er zu jung und zu weich sei für so eine Unternehmung. Daraufhin schlich sich Týrdaan auf das nächstbeste Schiff, dass kurz nach der Verabschiedung der Jünglinge in die Wildnis selbst aus Varmog Gronn auslief und zu einer Plünderfahrt nach Gandria aufbrach. Er schlich sich in eines der Fässer, die auf das Schiff geladen wurden und wurde erst bemerkt, als es zum Umkehren bereits zu spät war. Nach einer gehörigen Tracht Prügel ging Týrdaan auf seinen ersten Beutezug und landete auf dem gandrianischen Festland.
 
-Týrdaan kehrte mehrere Monate später mit der Flotte zurück. Während dieser Reise lernte er auch den Elfen [[../Die Helden/Gwent Ar-Gul]] kennen, der bei dieser Plünderfahrt befreit und mit nach Varmog Gronn gebracht wurde.
+Týrdaan kehrte mehrere Monate später mit der Flotte zurück. Während dieser Reise lernte er auch den Elfen [[../Die Helden/Gwent Ar-Gul|Gwent Ar-Gul]] kennen, der bei dieser Plünderfahrt befreit und mit nach Varmog Gronn gebracht wurde.
 
 ### Gerüchte über Týrdaan:
 - Týrdaan ist von einem Teufel besessen
