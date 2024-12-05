@@ -1,1 +1,1 @@
-Test
+Man sagt er sei der Onkel des jetzigen Jarls Fen Berserkr, aber die jüngeren Elfen können sich daran erinnern das man auch vor 70 Jahren bereits vor Hard Berserkr warnte und dieser als Außenseiter außerhalb der Siedlung lebte. Sein genaues Alter ist nur dem Clan der Berserkr bekannt, ebenso wie der Grund seines Exils.

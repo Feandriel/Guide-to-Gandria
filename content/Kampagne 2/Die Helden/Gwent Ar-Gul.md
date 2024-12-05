@@ -1,7 +1,7 @@
 ![[Bilder/Nils.png]]
 
 ### Beschreibung
-Ein junger Elf, offensichtlich vom Kontinent, mit platinblonden Haaren, einer schlanken Figur und noblen Gesichtszügen, welcher sich in traditionelle elfische Gewänder kleidet, stark beeinflusst von seiner nordischen Heimat.
+Ein junger Elf, offensichtlich vom Kontinent, mit platinblonden Haaren, einer schlanken Figur und noblen Gesichtszügen, welcher sich in traditionelle elfische Gewänder kleidet, stark beeinflusst von seiner neuen nordischen Heimat.
 
 ### Hintergrund
 Firn Al-Gul traf nach hundert Jahren der Sklaverei, und dementsprechend vielen grausamen Herren, auf Lynafia, eine Elfe aus Cyrandorei, welche nur etwas über 100 Jahre alt war. Durch das gemeinsame Schicksal der Sklaverei vereint, eng aneinander gebunden und mit keiner freundlichen Seele sonst in Sicht entwickelte sich rasch eine tiefe Freundschaft und Liebe zwischen ihnen. Aus dieser Verbindung entstand der junge Gwent Ar-Gul.
