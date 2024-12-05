@@ -1,4 +1,4 @@
-![[content/Bilder/Ylvarra_Schneesängerin.png]]
+![[Bilder/Ylvarra_Schneesängerin.png]]
 Ylvarra Schneesängerin ist die spirituelle Führerin und Clanmutter der [[content/Kampagne 2/Die Kalde Menn/Die Clans/Clan Waldersbarn|Eiswölfe]]. Man sagt ihr nach, die Kraft der Flüche ebenso wie die Kraft der Vorhersehung und Heilung zu besitzen. Ihre Zwillingsschwester Taenara ist eine einfache Heilerin im Haus Pharasma's und sieht ihr nur begrenzt ähnlich. Ihre Mutter verstarb bei ihrer Geburt, was das Herz ihres damals jungen Vaters erkalten ließ und sie in die Obhut der Völva brachte.
 
 Sogar für eine Elfe ist diese Frau besonders zierlich und bereits kränklich dünn. Trotzdem strotzt sie vor Leben und ist in ihren 219 Jahren nicht einmal durch Krankheit oder Schwäche aufgefallen. Ihre eingefallenen, honigfarbenen Augen sind stets wachsam und wirken in ihrem eingesunkenen Gesicht riesig, wobei viel öfter auffällt, dass selbst in den dunkelsten Räumen ihre Pupillen nur stecknadelkopfgroß bleiben. Sie trägt häufig wechselnden Schmuck aus Knochen, Federn, Häuten oder anderen Jagdtrophäen und trägt alles in allem einen roheren Stil als andere auf.
@@ -14,5 +14,5 @@ Sie wird stets von zwei Eiswölfen begleitet, denn Sie ist der Mittelpunkt aller
 
 
 ##### Anhang
-![[content/Bilder/Taenara_Shelielsdottir_small.png]]
-_Taenara Shelielsdottir_ , Zwillingsschwester von Ylvarra
+![[Bilder/Taenara_Shelielsdottir_small.png]]
+*Taenara Shelielsdottir*, Zwillingsschwester von Ylvarra
