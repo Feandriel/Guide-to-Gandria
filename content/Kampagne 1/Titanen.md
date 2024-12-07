@@ -1,4 +1,4 @@
-Viele wunderten sich lange, woher die Titanen kamen und warum es Krieg zwischen den Titanen und Göttern, und respektive ihren Anhängern, gab. Die Titanen wurden bisher für eine mächtige Rasse gehalten, welche sich neben den Rassen Gandria's und den Göttern bildete und den Göttern ähnliche Kräfte besaßen. Die Geburt des letzten Titanen, [[Kampagne 1/Titanen/Siluris, Titan des Schattens|Siluris, Titan des Schattens]] scheint diesem zu widersprechen, doch viele zweifeln an seinen Kräften und der Echtheit seines Status, da er nur kurzzeitig lebte und nur in den freien Städten ein wenig Verheerung ausübte, bevor die als "Ultima" bekannte Abenteurergruppe diesen stoppte. Trotz dieser Umstände und der wenigen Informationen die bekannt sind, erhält er eine Erwähnung im folgenden Werk.
+Viele wunderten sich lange, woher die Titanen kamen und warum es Krieg zwischen den Titanen und Göttern, und respektive ihren Anhängern, gab. Die Titanen wurden bisher für eine mächtige Rasse gehalten, welche sich neben den Rassen Gandria's und den Göttern bildete und den Göttern ähnliche Kräfte besaßen. Die Geburt des letzten Titanen, [[Organisationen/Titanen/Siluris, Titan des Schattens|Siluris, Titan des Schattens]] scheint diesem zu widersprechen, doch viele zweifeln an seinen Kräften und der Echtheit seines Status, da er nur kurzzeitig lebte und nur in den freien Städten ein wenig Verheerung ausübte, bevor die als "Ultima" bekannte Abenteurergruppe diesen stoppte. Trotz dieser Umstände und der wenigen Informationen die bekannt sind, erhält er eine Erwähnung im folgenden Werk.
 
 (...)
 
@@ -8,17 +8,17 @@ Die Titanen waren nicht besonders vielzählig, am Standard einer Rasse gemessen,
 
 Folgend eine Liste solcher Titanen, deren Namen und Domänen den Krieg überlebt haben:
 
-- [[Kampagne 1/Titanen/Thalassia, Titan der Meere|Thalassia, Titan der Meere]], Seefahrer und des Wassers. Ihr Todesort ist berühmt für die wunderschönen Wasserfälle und ihr Farbenspiel beim Sturz in die Tiefen des gewaltigen Kraters, welche die Schlacht die ihr Leben beendete erschuf. Er ist so gewaltig, das man einen ganzen Tag zum hinabsteigen, 2 Tage zum durchqueren und einen weiteren bis anderthalb zum erklimmen benötigt. Sie besaß angeblich Kontrolle über gewaltige Mengen Wasser und war in der Lage dieses zu vernichten und zu erschaffen wie sie wollte. Ihr Hoheitsgebiet war in dem Gebiet südlich der heutigen Götterfallbucht, nahe ihrer letzten Ruhestätte.
-- [[Kampagne 1/Titanen/Daï'eon, Titan des Krieges|Daï'eon, Titan des Krieges]], der Kampfkunst und der Zähigkeit. Sein Todesort ist bekannt und berühmt für die gewaltigen Phenomena die sich dort beobachten lassen und aufgrund der Zerstörung die sein Tod gefordert und angerichtet hat. Die nach ihm benannten Berge sind in Wahrheit nur die letzten Überreste einer gewaltigen Bergkette, welche die beiden Kontinentalhälften damals voneinander trennten. Seine Kräfte machten ihn angeblich nahezu unantastbar und wenn man Zeichnungen und Skripten Glauben schenken mag, war er in der Lage elementare Kräfte wie Feuer und Elektrizität zu verwenden obwohl er ein rein "körperlich bezogener" Titan war. Der Zusammenhang seiner Kräfte und Domänen ist und bleibt ein Mysterium, welches wohl aufgrund fehlender Quellen nie gelöst werden kann. Sein Hoheitsgebiet lag im Südwesten Gandria's, westlich des heutigen Sturmatolls 
-- [[Titanen/Iknabo, Titan des Feuer|Iknabo, Titan des Feuers]] und Asche, Hoheitsgebiet in den östlichen Inselgebieten
-- [[Kampagne 1/Titanen/Sofia, Titanin des Wissens|Sofia, Titanin des Wissens]], Hoheitsgebiet Südgandria im Zentrum der heutigen Elfenreichen
-- [[Kampagne 1/Titanen/Diveyr, Titan des Chaos|Diveyr, Titan des Chaos]], Hoheitsgebiet unbekannt
-- [[Kampagne 1/Titanen/Athys, Titanin der Sonne|Athys, Titanin der Sonne]], Hoheitsgebiet unbekannt
-- [[Kampagne 1/Titanen/Halan, Titan der Erde|Halan, Titan der Erde]], Hoheitsgebiet im Westen Gandria's, im heutigen Nemholym
-- [[Kampagne 1/Titanen/Hebe, Titanin der Heilung|Hebe, Titanin der Heilung]], Hoheitsgebiet unbekannt
-- [[Kampagne 1/Titanen/Arisdona, Titanin der Tiere|Arisdona, Titanin der Tiere]], "Biestwesen" und der Freude, Hoheitsgebiet in den Ebenen des heutigen Bestia
-- [[Kampagne 1/Titanen/Rhedon, Titan der Stärke|Rhedon, Titan der Stärke]], Hoheitsgebiet im Südwesten Gandria's, nordwestlich des heutigen Sturmatolls
-- [[Kampagne 1/Titanen/Ancient One, Titan der Wälder|Ancient One, Titan der Wälder]]
+- [[Organisationen/Titanen/Thalassia, Titan der Meere|Thalassia, Titan der Meere]], Seefahrer und des Wassers. Ihr Todesort ist berühmt für die wunderschönen Wasserfälle und ihr Farbenspiel beim Sturz in die Tiefen des gewaltigen Kraters, welche die Schlacht die ihr Leben beendete erschuf. Er ist so gewaltig, das man einen ganzen Tag zum hinabsteigen, 2 Tage zum durchqueren und einen weiteren bis anderthalb zum erklimmen benötigt. Sie besaß angeblich Kontrolle über gewaltige Mengen Wasser und war in der Lage dieses zu vernichten und zu erschaffen wie sie wollte. Ihr Hoheitsgebiet war in dem Gebiet südlich der heutigen Götterfallbucht, ein Stück südlich ihrer letzten Ruhestätte, und umspannte auch weite Teile des heutigen glitzernden Golfes.
+- [[Organisationen/Titanen/Daï'eon, Titan des Krieges|Daï'eon, Titan des Krieges]], der Kampfkunst und der Zähigkeit. Sein Todesort ist bekannt und berühmt für die gewaltigen Phenomena die sich dort beobachten lassen und aufgrund der Zerstörung die sein Tod gefordert und angerichtet hat. Die nach ihm benannten Berge sind in Wahrheit nur die letzten Überreste einer gewaltigen Bergkette, welche die beiden Kontinentalhälften damals voneinander trennten. Seine Kräfte machten ihn angeblich nahezu unantastbar und wenn man Zeichnungen und Skripten Glauben schenken mag, war er in der Lage elementare Kräfte wie Feuer und Elektrizität zu verwenden obwohl er ein rein "körperlich bezogener" Titan war. Der Zusammenhang seiner Kräfte und Domänen ist und bleibt ein Mysterium, welches wohl aufgrund fehlender Quellen nie gelöst werden kann. Sein Hoheitsgebiet lag im Südwesten Gandria's, westlich des heutigen Sturmatolls 
+- [[Organisationen/Titanen/Iknabo, Titan des Feuer|Iknabo, Titan des Feuers]] und Asche, Hoheitsgebiet in den östlichen Inselgebieten
+- [[Organisationen/Titanen/Sofia, Titanin des Wissens|Sofia, Titanin des Wissens]], Hoheitsgebiet Südgandria im Zentrum der heutigen Elfenreichen
+- [[Organisationen/Titanen/Diveyr, Titan des Chaos|Diveyr, Titan des Chaos]], Hoheitsgebiet unbekannt
+- [[Organisationen/Titanen/Athys, Titanin der Sonne|Athys, Titanin der Sonne]], Hoheitsgebiet unbekannt
+- [[Organisationen/Titanen/Halan, Titan der Erde|Halan, Titan der Erde]], Hoheitsgebiet im Westen Gandria's, im heutigen Nemholym
+- [[Organisationen/Titanen/Hebe, Titanin der Heilung|Hebe, Titanin der Heilung]], Hoheitsgebiet unbekannt
+- [[Organisationen/Titanen/Arisdona, Titanin der Tiere|Arisdona, Titanin der Tiere]], "Biestwesen" und der Freude, Hoheitsgebiet in den Ebenen des heutigen Bestia
+- [[Organisationen/Titanen/Rhedon, Titan der Stärke|Rhedon, Titan der Stärke]], Hoheitsgebiet im Südwesten Gandria's, nordwestlich des heutigen Sturmatolls
+- [[Organisationen/Titanen/Ancient One, Titan der Wälder|Ancient One, Titan der Wälder]]
 
 (...)
 
@@ -42,16 +42,3 @@ Das Zeitalter der Titanen wird aufgrund solcher und anderer Darstellung und den 
 
 Diese Opfer stellen die grobe Norm der Anbetung der Titanen dar, die bekanntesten Ausnahme davon stellten der Titan der Magie und die Titanin der Heilung dar. Der Titan der Magie wurde allen Schriften nach vom Krieg verschont und gilt seitdem als verschollen und unauffindbar, manche vermuten, dass er ebenso wie die Götter die materielle Ebene verließ und eine andere, oder eine von ihm geschaffene, Ebene betrat.  
 
-Durch die Erkundung der ältesten gefundenen Ruinen, Studium alter Schriften und jede weitere mögliche Forschungen hat man bisher folgende Titanen, ihre wahrscheinlichen Domänen und Hoheitsgebiete identifizieren können. Zu jedem der genannten Titanen wird später detaillierter aufgeführt.
-
-- Daï'eon, Titan des Krieges, Hoheitsgebiet im Südwesten Gandria's, westlich des heutigen Sturmatolls 
-- Thalassia, Titanin des Wassers, Hoheitsgebiet nahe der heutigen Götterfallbucht
-- Iknabo, Titan von Feuer und Asche, Hoheitsgebiet in den östlichen Inselgebieten
-- Sofia, Titanin des Wissens, Hoheitsgebiet Südgandria im Zentrum der heutigen Elfenreichen
-- Diveyr, Titan des Chaos, Hoheitsgebiet unbekannt
-- Athys, Titanin der Sonne, Hoheitsgebiet unbekannt
-- Halan, Titan der Erde, Hoheitsgebiet im Westen Gandria's, im heutigen Nemholym
-- Hebe, Titanin der Heilung, Hoheitsgebiet unbekannt
-- Arisdona, Titanin der Tiere, Hoheitsgebiet in den Ebenen des heutigen Bestia
-- Rhedon, Titan der Stärke, Hoheitsgebiet im Südwesten Gandria's, nordwestlich des heutigen Sturmatolls
-- Name unbekannt, Titan der Magie, Hoheitsgebiet im Norden Gandria's

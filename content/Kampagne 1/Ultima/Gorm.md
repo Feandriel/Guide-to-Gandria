@@ -1,6 +1,5 @@
 ### "König der Berge"
-
-  
+ ![[Bilder/gorm.png]]
 
 Gorm, der Steinriese, später auch König der Berge genannt. Einer der 6 Helden die sich dem Titan der Dunkelheit gegenüber stellten und diesen besiegten und versiegelten.
 

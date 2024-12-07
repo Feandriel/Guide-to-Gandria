@@ -1,3 +1,3 @@
 [[../Myra]]
 [[../Organisationen/Die grauen Wächter]]
-[[../Titanen/Siluris, Titan des Schattens]]
+[[../Organisationen/Titanen/Siluris, Titan des Schattens]]

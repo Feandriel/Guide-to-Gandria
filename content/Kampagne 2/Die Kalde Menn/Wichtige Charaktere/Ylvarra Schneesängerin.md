@@ -7,7 +7,7 @@ Während Sie im allgemeinen nicht gerade als eine Schönheit bekannt ist, zollt 
 Sie wird stets von zwei Eiswölfen begleitet, denn Sie ist der Mittelpunkt aller Rudel und bildet das Herz der Wolfsgemeinschaft. Unter ihrer Leitung jagen die Rudel gemeinsam und sie vollführt und leitet alle Rituale der kleinen Enklave.
 
 #### Gerüchte
-- Ylvarra lässt skrupel- und schamlos all jene verschwinden die ihr missfallen
+- Ylvarra lässt skrupel- und schamlos all jene verschwinden die sie kränken
 - Sie soll eine Anwärterin auf das Amt der Völva gewesen sein, bevor sie von Hul Da'frania verstoßen wurde
 - Man munkelt sie leide unter einem Fluch und sei nicht immer so unansehnlich gewesen. Ihre Zwillingsschwester ist ein Bild für das was sie gewesen sein könnte...
 
