@@ -8,9 +8,9 @@ Während ihre Kräfte nicht vollkommen einzigartig sind, so sind sie doch besond
 
 #### Überblick
 
-Das Gebiet der Valkyren umfasst den Norden der Stadt, so weit weg vom Hafen wie es nur geht, und beinhaltet wohl das meiste Farmland der Stadt, sowie einige Trainingsplätze für Magier und Krieger gleichermaßen. Die hier trainierenden Frauen und Herren sind der Clanführerin und Königin der Eiswüste [[../Adel des Nordens/Jarl Nerestina Ängelsdottir|Jarl Nerestina Ängelsdottir]] bis in den Tod ergeben, was teilweise an ihrer ruhigen und gemäßigten Führung, an ihrer gutmütigen Persönlichkeit, aber auch an ihrem makellosen Aussehen liegt. Sie ist genauso sehr eine beliebte und prominente Figur, wie auch gefürchtete Kriegerin und fähige Gärtnerin.
+Das Gebiet der Valkyren umfasst den Norden der Stadt, so weit weg vom Hafen wie es nur geht, und beinhaltet wohl das meiste Farmland der Stadt, sowie einige Trainingsplätze für Magier und Krieger gleichermaßen. Die hier trainierenden Frauen und Herren sind der Clanführerin und Königin der Eiswüste [[Jarl Nerestina Ängelsdottir|Jarl Nerestina Ängelsdottir]] bis in den Tod ergeben, was teilweise an ihrer ruhigen und gemäßigten Führung, an ihrer gutmütigen Persönlichkeit, aber auch an ihrem makellosen Aussehen liegt. Sie ist genauso sehr eine beliebte und prominente Figur, wie auch gefürchtete Kriegerin und fähige Gärtnerin.
 
-Die Tochter der Clanführerin [[../Adel des Nordens/Vylnarra Siv Ängelsdottir|Vylnarra Siv Ängelsdottir]] ist bereits die rechte Hand ihrer Mutter und übernimmt die meisten ihrer Pflichten, wobei sie von allen Händen und Seite unterstützt wird. 
+Die Tochter der Clanführerin [[Vylnarra Siv Ängelsdottir|Vylnarra Siv Ängelsdottir]] ist bereits die rechte Hand ihrer Mutter und übernimmt die meisten ihrer Pflichten, wobei sie von allen Händen und Seite unterstützt wird. 
 
 #### Hoch geschätzte Eigenschaften
 
@@ -24,6 +24,6 @@ Obwohl der Clan Ängelstad nicht nur aus Eiselfen besteht besitzt er doch ein re
 
 Clan Ängelstad musste noch nie die Hoheit über die Gärten als Druckmittel einsetzen, denn niemand ist so dumm, die Meinung der Grünen Lady zu missachten und ihre Ratschläge in den Wind zu schlagen.
 
-Desweiteren findet man auf ihrem Hoheitsgebiet die *"Landvidi"*, eine Halle welche der Göttin [[content/Götter/Jaidi|Jaidi]] gewidmet wurde und nun als ihr Tempel dient. Sie wurde wohl vom legendären [[../../Heldengötter der Kalde Menn/Vidar|Vidar]] errichtet und beide hatten, wenig überraschend, eine besondere Verbindung zur Natur. Die wohlgepflegten Gärten und Wälder die der Clan innerhalb der Höhle kultiviert und anlegt sind Zeuge davon, dass sie wohl den Segen der Jaidi besitzen. Natürlich arbeiten weder im Tempel, noch in den Gärten nur Mitglieder des Clans Ängelstad, doch bleiben diese stets die große Mehrheit.
+Desweiteren findet man auf ihrem Hoheitsgebiet die *"Landvidi"*, eine Halle welche der Göttin [[Götter/Jaidi|Jaidi]] gewidmet wurde und nun als ihr Tempel dient. Sie wurde wohl vom legendären [[Heldengötter der Kalde Menn/Vidar|Vidar]] errichtet und beide hatten, wenig überraschend, eine besondere Verbindung zur Natur. Die wohlgepflegten Gärten und Wälder die der Clan innerhalb der Höhle kultiviert und anlegt sind Zeuge davon, dass sie wohl den Segen der Jaidi besitzen. Natürlich arbeiten weder im Tempel, noch in den Gärten nur Mitglieder des Clans Ängelstad, doch bleiben diese stets die große Mehrheit.
 
 Nicht zu vergessen sind natürlich auch nicht der Trainingsplatz der Valkyren, eine Brauerei, oder einer der einzigen zwei Händler für magische Gegenstände in der gesamten Stadt.
