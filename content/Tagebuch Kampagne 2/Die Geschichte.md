@@ -26,8 +26,10 @@ Auch dieser verlief anfangs ruhig, das Wetter wurde minimal schlechter und leich
 Es kam zum Kampf, in welchem erst durch Einschüchterung versucht wurde den Drachen zu vertreiben, dieser jedoch zu einem flinken Angriff auf den ungeschützten Gwent ansetzte. Ulfric hieb dem Drachen bei diesem jedoch beinahe ein Bein ab, Ureste schlug mit seinem Streitkolben auf die Flanke ein, und beide stürmten dann an Gwents Seite. Dieser wehrte sich bereits mithilfe seiner magischen Künste, wurde jedoch unerwartet niedergestreckt, als der Drache die Reichweite seines Bisses offenbarte. Schwer verwundet und am Boden blutend, musste er erst von Ureste und Týrdaan geheilt werden, während Ulfric erneut von seinem gigantischen Schwert Gebrauch machte und den Drachen, blutüberströmt und ebenso schwer verwundet, in die Flucht schlug. Rachegelüste und die Angst vor einer Konfrontation mit einem stärkeren Drachen trieben den frisch versorgten, und gerade so bei Bewusstsein bleibenden, Gwent jedoch zur Handlung und seine magischen Geschosse sprengten den Drachen aus der Luft.
 Ein anschließendes kurzes Verhör dieses erbrachte einige Infos, denen die Gruppe jedoch nur halbherzig glaubte. Zwar konnten sie keine Anzeichen einer Lüge entdecken, doch weiße Drachen waren bekanntermaßen die feigsten und bösartigsten ihrer Art.
 So erfuhr die Gruppe:
+
 - Sie befänden sich in den Landen des Königs
 - Es gäbe unzählige mehr Drachen und im Gebirge lebten die Unwürdigen, hässliche aber schmackhafte und dumme Sklaven der Drachen
 - Der Drache heiße Arnog
 - Er wisse nicht welcher der Drachen gestern hier gejagt habe, aber es wäre wahrscheinlich ein Prinz
+
 Der Drache war unwillig weitere Details preiszugeben und biss sich selbst große Teile seiner Zunge ab, woraufhin Ureste ihm sein Schwert durch den Kopf trieb. So war dies das Ende der Begegnung mit Arnog, wenn auch nicht sein letzter Auftritt, denn von nun an, beschloss Ureste, würde Arnog für einige Tage auf dem Speiseplan stehen. Die Helden reisten weiter, eine Strecke die sie als ausreichenden Abstand zum Ort der Auseinandersetzung hielt, und schlug im vollen Lichte Lunas ihr Lager für die Nacht auf.
