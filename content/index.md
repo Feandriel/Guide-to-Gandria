@@ -17,7 +17,7 @@ Einige gute Startpunkte um die Welt kennen zu lernen könnten die folgenden sein
 
 - [[Kampagne 1/Organisationen/Die grauen Wächter|Die grauen Wächter]], die Helden der ersten Kampagne und alle jene die sich ihnen anschlossen
 
-- 
+- [[Tagebuch Kampagne 2/Die Geschichte|Das Tagebuch]], eine Zusammenfassung aller gespielten Sitzungen
 
 #### Kampagne 1: Der Kampf gegen den Schatten
 Der Kampf gegen den Schatten befasst sich mit der ersten Kampagne und dessen Inhalten. Beide Kampagnen haben Berührungspunkte und über diese findet man natürlicherweise auch zu Informationen zu der zweiten Kampagne, doch ist dabei zu beachten, dass dieses Wiki zum Abschluss der ersten Kampagne entsteht/ entstanden ist und daher hier deutlich mehr Wissen bereits offen liegt und verfügbar ist, als es für die Spieler und Charakteren zum Zeitpunkt der Geschehnisse der Fall war.
