@@ -1,0 +1,2 @@
+Anbetung:
+Wettstreit der Stärke, bei dem alle Teilnehmer ein rituelles Symbol annahmen welches sie an Rhedon band. Die Seelen der Verlierer stärkten Rhedon, während die Sieger sich entweder selbst opferten um eine neue Form an Rhedons Seite zu erlangen, oder als starke Anführer ihres Volkes lebten. Da hier jedoch recht waghalsig, rücksichtslos und kriegstreiberisch gelebt wurde, lebten auch diese Champions nicht sehr lange und nährten letztendlich die Macht ihres titanischen Herren.
