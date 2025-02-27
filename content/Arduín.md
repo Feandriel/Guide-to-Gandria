@@ -1,4 +1,4 @@
-![[Bilder/Arduín Map.png]]
+![[Bilder/Arduín Map(new).png]]
 
 Der Arduín, in der gemeinen Zunge Großer Fluss genannt, entspringt im Flüstergebirge nahe der Stadt [[Kampagne 1/Imperiale Städte/Urma|Urma]] und fließt dann gen Süden. Die Siedlungen [[Kampagne 1/Imperiale Städte/Lilacswacht|Lilacswacht]] und [[Kampagne 1/Imperiale Städte/Oberbach|Oberbach]] wurden direkt am Fluss erbaut und sind über diesen erreichbar.
 
