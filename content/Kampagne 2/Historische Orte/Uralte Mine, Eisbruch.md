@@ -1,0 +1,4 @@
+Auf ihrer Reise in den eisigsten Regionen des Nordens fand die Gruppe dieses Überbleibsel einer längst vergangenen und höchstwahrscheinlich erfrorenen Zivilisation. Die Mine befindet sich am nördlichen Ende eines Gebirges, welches die lokalen Kobolde als die *Drachenzähne* bezeichnen und wurde von einer unbekannten Zivilisation geschaffen.
+Die Zivilisation benutzt alte Dialekte der Nordmann- und Zwergensprache und schien von menschlicher Größe zu sein. Das Tor zur Mine war jedoch für etwas weitaus größeres geschaffen worden, bedenkt man das ein einfaches Minentor zwei Flügel besaß und groß genug war um zwei Ulfric übereinander gemütlich passieren zu lassen.
+
+ %% (Insert Map from Room B2) %% 
