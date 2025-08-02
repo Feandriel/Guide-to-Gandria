@@ -9,7 +9,7 @@ Geboren wurde er vor 43 Jahren auf einem Schlachtfeld auf den Sonneninseln, auf 
 
 #### Familie
 - Ehefrau: Nerestina Ängelsdottir
-	- Kinder: Svanhilda Arisson, Torkell Arisson
+	- Kinder: Svanhilda Arisson, Torkell Arisson, Astrid Arisson
 	- Nomineller Schützling: Vylnarra Ängelsdottir
 - Bruder: Halstein Arisson
 - Vater: Bern Arisson

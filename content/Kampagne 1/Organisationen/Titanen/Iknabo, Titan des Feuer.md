@@ -1,4 +1,4 @@
-![[Bilder/Iknabos.jpeg]]
+ ![[Bilder/Iknabos.jpeg]]
 > Wandmalerei in einem Tempel von Iknabo
 
 #### Funde und Relikte zu Iknabo

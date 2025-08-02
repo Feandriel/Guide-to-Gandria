@@ -1,0 +1,3 @@
+Ein heldenhafter Seefahrer und Erkunder, dessen Liebe zur Seefahrt und zum Meer ihn auf ewig mit diesem verband und unsterblich machte. Er gilt als der Begründer der Schifffahrt für die Kalde Menn und lebte irgendwann in den verlorenen Zeitaltern.
+
+Er hat eine Tochter, [[Freya|Freya]], welche kurze Zeit später ebenfalls Legendenstatus erreichte, sowie einen Sohn Freyr, welcher ein passabler Jäger und Diener Jaidi's war und stets denselben Status erlangen wollte. Er ist berühmt, doch es reichte nicht für eine bleibende, unsterbliche Verewigung in den Hallen der Heldengötter.
