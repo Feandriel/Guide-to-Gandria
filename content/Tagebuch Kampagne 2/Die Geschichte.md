@@ -118,3 +118,14 @@ Es stellte sich heraus, dass dies eine Fehlentscheidung war, denn als die Türe 
 #### Sitzung 10
 **==10. Abadius 981==**
 
+Angekommen an den Hängen des [[../Kampagne 2/Historische Orte/Wolkenberg, Königshallen|Wolkenbergs]] versuchte die Gruppe, entgegen der Wünsche der Drachendame Idezi, das Treffen mit dem König zu verzögern. Idezi schob die Gruppe voran, ließ sich jedoch zu einem großzügigen "Mittagessen" einladen, welches sie recht gehetzt verschlang. Als Gwent jedoch anfing sie nach dem Prinzen zu befragen, kehrte sie zur Hast zurück und hetzte die Gruppe so schnell wie möglich Richtung Palast. Einige stoische Pausen und Verzögerungen später, tauchte besagter Prinz allerdings auf und alle Hast und Sicherheit verschwand aus Idezi Verhalten. Unterwürfig geleitete sie die nun ebenfalls gezähmte Gruppe in den Thronsaal, wo der König mitsamt seiner ältesten Kinder auf die Ankunft aller wartete. So lernte die Gruppe den Prinzen, den Marschall, die verhüllte Dame und den König selbst kennen, und Ureste ließ seinen Unmut und Stolz bekannt werden. Seine Attitüde änderte sich jedoch, als die verhüllte Dame in einer, dem Rest der Gruppe unbekannten, Sprache mit ihm Konversation machte. So führte er, dem Wunsch der Dame folgend, die Mitglieder der Gruppe in neue Gemächer, während Diener Kobi und Halfdan zur Versorgung fort führten.
+
+Týrdaan währenddessen wurde vom König selbst angesprochen und erfuhr einiges, was ihm bisher auf der Seele brannte. Überraschenderweise, war auch das ungute Gefühl verschwunden und die leisen Zweifel und Angst, die ihn bisher vom Palast gewarnt hatten verstummt. 
+Týrdaan erfuhr, dass der König sein Vater ist, seine Mutter eine einfache, aber einzigartige Frau war, welche zufällig an seines Vaters Pforte klopfte und das er einen Zwillingsbruder habe. Auch wurde er zum zukünftigen Kronprinzen erklärt, denn der König sehe ein Potential in ihm, in seinen Augen, welches die anderen Kinder nicht besäßen.
+
+Ein kurzes und "liebevolles" Gespräch später, schickte der König Týrdaan auf seine Gemächer und äußerte den Wunsch, dass dieser am nächsten Tage die Stadt erkunden sollen. Auf den Gemächern angekommen, schaute Týrdaan sich um und traf sich dann mit Gwent, Ureste und Ulfric um die Lage und neuen Informationen zu besprechen. Pläne für den Abend und den nächsten Tag wurden geschmiedet und schließlich begann man eine Rast. Ureste besprach sich noch ein weiteres mal mit der verhüllten Dame und bepflanzte die Blumenbeete in seinem Zimmer, Gwent begann die Bücher und Runen in seinem Zimmer zu studieren und Ulfric studierte und inspizierte die Waffen, die man in seinem Zimmer ausgestellt hatte.
+
+#### Sitzung 11
+**==11. Abadius 981==**
+
+Nach der Rast aller Mitglieder brachen Ulfric und Týrdaan auf um Idezi und Týrdaan's Bruder Viggo zu finden, doch man weigerte sich ihn zu Viggo zu führen oder zu verraten wo dieser zu finden sei, und so blieb nur der Besuch in Idezi's Gemach. Sie 
