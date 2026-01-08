@@ -128,15 +128,31 @@ Ein kurzes und "liebevolles" Gespräch später, schickte der König Týrdaan auf
 #### Sitzung 11
 **==11. Abadius 981==**
 
-Nach der Rast aller Mitglieder brachen Ulfric und Týrdaan auf um Idezi und Týrdaan's Bruder Viggo zu finden, doch man weigerte sich ihn zu Viggo zu führen oder zu verraten wo dieser zu finden sei, und so blieb nur der Besuch in Idezi's Gemach. Sie 
+Nach der Rast aller Mitglieder brachen Ulfric und Týrdaan auf um Idezi und Týrdaan's Bruder Viggo zu finden, doch man weigerte sich ihn zu Viggo zu führen oder zu verraten wo dieser zu finden sei, und so blieb nur der Besuch in Idezi's Gemach. Sie befand sich in einem Mahl, welches sie mit außerordentlicher Freude zu verschlingen schien, und bot der Gruppe nach einigem hin und her Training an, verweigerte jedoch die Aussage über Viggo, sei es zu dessen Person oder seinem Aufenthalt. Sie beschrieb ihn jedoch als hübschere Version Týrdaans mit Augen von einem majestätischen Gold und weiteren Schleimereien.
+Es folgte ein Gespräch mit einem Elf, ein seltener Anblick und einer der wenigen Nicht-Drakonide in diesen Hallen, welcher sich als Ausstatter vorstellte, tunlichst seinen Kopf bewahren wollte und die Zimmer der Gruppe einrichtete, ganz wie sie es wünschten, sowie eine Erkundung der Stadt, welche am Fuße des Berges und des Schlosses liegt. Dabei entdeckte man eine Ruine, in dessen Mitte ein großer eingefrorener Baum stand. Týrdaan konnte nicht umhin ihn zu berühren und fühlte einen stechenden, kalten Schmerz, sowie eine weitere Präsenz in seinem eigenen Kopf, welche für einige wenige Sekunden spürbar verweilte, bevor sie verschwand.
+Ulfric, welcher seit einiger Zeit Stimmen vernahm, wurde zeitgleich von Neugier und Wahnsinn getrieben und folgte schlussendlich den Stimmen, welche ihn zu einer anderen Ruine führte. Dort angekommen fand er den Abdruck eines Altars, dessen Podest noch als Erhöhung im Schnee erkennbar war und verfiel in eine Trance. Er durchlebte eine Vision, und wurde in dieser verweilend von Týrdaan und Idezi gefunden, wonach ersterer entschied es sei an der Zeit ihn mit körperlicher Gewalt zu wecken.
+Dies schien jedoch keine brillante Idee gewesen zu sein, denn der geistesabwesende Ulfric wehrte sich, war sein Körper doch für den Krieg und das Überleben ausgebildet worden. So schlug er Týrdaan zu Boden, führte den Kampf gegen Idezi fort und tötete Týrdaan schließlich, nachdem dieser von Idezi geheilt worden war, indem er sein gewaltiges Bastardschwert präzise in seinen Schädel warf.
+Vom Kampf gegen Idezi jedoch stark geschwächt und final aus seiner Trance erwachend, ging Ulfric auch zu Boden und erlag seinen Wunden noch an Ort und Stelle.
+So führte es Týrdaan und Ulfric nach Valhalla, wo sie jedoch nicht allzu lange verbleiben sollten.
 
 
+#### Sitzung 12
+**==12. Abadius 981==**
+Týrdaan und Ulfric wurden von Idezi in ihre Gemächer zurückgebracht und zwei jungfräuliche Dienerinnen wurden gefunden, welche freiwillig das Bett mit beiden teilten um ihnen in dieser Nacht ein neues Leben zu schenken. Zumindest war dies die Hoffnung der Drachendame, welche die Folgen ihres Versagens fürchtete.
+Es schien zu klappen, denn Ulfric erwachte, Schmerzen und den Zorn der Blitze an seine Bettgefährtin weitergebend und mit dem Mal des Thor's auf seine eigene Brust gebrannt.
+Kurze Zeit später erwachte auch Týrdaan, dessen Amulett auf seiner Brust Feuer zu fangen schien und sich in seine Haut einbrannte.
+Und so kehrten beide zurück von ihrer Reise auf dem Bifröst und ihrem Weg nach Valhalla, mit Erinnerungen an die Stadt nach dem Ende und einigen neuen Narben (im Falle Týrdaans, welcher nun sowohl über dem linken, als auch dem rechten Auge eine Narbe trägt).
 
-Sitzung 12
-12. Abadius 981
+Ewig der Neugier verbunden und mit der Hoffnung neue Erkenntnisse zu erlangen, machte man sich aller Erschöpfung und Erfahrungen trotzend erneut auf in die Stadt, diesmal jedoch in voller Besetzung. So fand Ureste heraus, dass die kreisrunde Ruine mit dem Baum ein ehemaliger Tempel Jaidi's sein könnte und das die Linde ein kultureller Sammelpunkt in einigen Völkern war und in den Stämmen der Nordmänner auch geblieben ist. Sowohl Gwent als auch Ureste versuchten ebenfalls den Baum zu berühren und Ureste schien überrascht ob seiner erfolgreichen Kommunikation mit dem Baum. Er teilte mit, dass der Baum sich einsam fühlte, was generell mehr Fragen aufwarf, als es beantwortete. Mit der Erkundung und den gewonnen Erkenntnissen nicht vollständig zufrieden, doch sich der schwindenden Wahrscheinlichkeit mehr zu finden bewusst, verfolgte man die gestrigen Schritte weiter, und gelangte an die zweite Ruine und den Schlachtplatz, welcher Týrdaan und Ulfric das Leben gekostet hatte.
+Dort lernte man ein wenig über die Trance und was Ulfric während dieser wahrnahm, aber auch eine neue Person kennen, namentlich [[Mjoll Snaersdottir|Mjoll Snaersdottir]], welche hier in der Stadt lebte. Sie teilten Speis und Trank mit ihr und erfuhren von ihr, dass in der Stadt ein sehr alter, gehässiger, gefräßiger, doch glücklicherweise auch schläfriger Drache namens Skylla lebte, welche hier in der Nähe schlafen würde und zu meiden sei; dass aber auch ein beinahe ebenso alter, weiser, ebenso gefräßiger aber netter Drache namens Paradontax anzutreffen sei, welcher der besteste (und einzige) Freund Mjoll's sei, und sonst noch 4 oder 5 andere Drachen; bekam eine Rundtour durch einige Nachbarschaften und interessante Stadtteile und erfuhr währenddessen sehr sehr viel über Mjoll und ihre Präferenzen. Und ihre Gewohnheiten. Und was sie noch nie gesehen hatte. Und was sie sich wünschte. Und vieles vieles mehr. Sehr viel mehr.
+Schließlich führte Mjoll die Gruppe zum Fuße des Berges, und gemeinsam mit Idezi betrat man einen geheimen Zugang zu den Katakomben der Burg.
 
-Sitzung 13
-12. Abadius 981
+#### Sitzung 13
+==**12. Abadius 981**==
+
+In diesen Katakomben traf die Gemeinschaft auf einen tauben Zwerg, welcher der hiesige Schmied zu sein schien, den todesfürchtigen Elfen welcher sich als Ausstatter vorgestellt hatte, und einen stummen Schreiberling, welcher vom Ausstatter als Schreiberling vorgestellt wurde.
+Der Ausstatter erzählte flüsternd ein wenig über seine Vergangenheit und seine wiederholten Wiederbelebungen sofern er gebraucht wurde. Da er aber auch längere Zeitabschnitte tot verbrachte, konnte er keine genauen Zeitangaben und Informationen wiedergeben.
+
 
 Sitzung 14 (19.9)
 13. Abadius - 15. Abadius 981
