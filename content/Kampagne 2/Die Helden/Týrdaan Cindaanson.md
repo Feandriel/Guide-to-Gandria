@@ -22,3 +22,23 @@ Týrdaan kehrte mehrere Monate später mit der Flotte zurück. Während dieser R
 
 ### Abenteuer
 Am Tag der Wintersonnenwende im Jahre 980 brach Týrdaan Cindaanson, zusammen mit[[Ulfric Thorfinnson| Ulfric]],[[Gwent Ar-Gul| Gwent]] und [[Ureste]] im Namen des Königs der Eismänner auf, um bis zum Sommer einen Landungskopf für die Armee zu schaffen und die Rückkehr der Eismänner auf das Festland zu ermöglichen.
+
+%% 
+Geburtsnamen: 
+- Freyr'kerim Dathathern[^1] Arisson (mütterlich)
+- Thorri Daartrekis Fimbulson (väterlich)
+
+
+Sohn von König Snaer/ Fimbul und Drifa Arisson (Schwester von Harkel Arisson, Großvater von Brandt Arisson)
+Zwillingsbruder von Viggo Daaroth Fimbulson, jüngerer Bruder von Mjoll Daariv Snaersdottir
+
+
+  
+
+Drachenhebamme/-vertraute und Anvertraute der Mutter: Ayndra die Stimmlose
+
+
+
+
+[^1]: Bedeutung: Ende der Tyrannei/ Ende der Drachen/ Ende des Winter oÄ
+%%

@@ -16,3 +16,9 @@ Ulfric ist das Kind des berühmten Berserkers Thorfinn "Blutadler" [[Waisenkinde
 
 ### Abenteuer
 Am Tag der Wintersonnenwende im Jahre 980 brach Ulfric Thorfinnson, zusammen mit [[Týrdaan Cindaanson|Týrdaan]], [[Gwent Ar-Gul|Gwent]] und [[Ureste]] im Namen des Königs der Eismänner auf, um bis zum Sommer einen Landungskopf für die Armee zu schaffen und die Rückkehr der Eismänner auf das Festland zu ermöglichen.
+
+
+%%
+Vater: Thorfinn
+
+%%

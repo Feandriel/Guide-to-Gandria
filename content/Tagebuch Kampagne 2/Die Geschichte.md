@@ -129,3 +129,21 @@ Ein kurzes und "liebevolles" Gespräch später, schickte der König Týrdaan auf
 **==11. Abadius 981==**
 
 Nach der Rast aller Mitglieder brachen Ulfric und Týrdaan auf um Idezi und Týrdaan's Bruder Viggo zu finden, doch man weigerte sich ihn zu Viggo zu führen oder zu verraten wo dieser zu finden sei, und so blieb nur der Besuch in Idezi's Gemach. Sie 
+
+
+
+Sitzung 12
+12. Abadius 981
+
+Sitzung 13
+12. Abadius 981
+
+Sitzung 14 (19.9)
+13. Abadius - 15. Abadius 981
+
+Sitzung 15 (7.11)
+15. Abadius - 17. Abadius 981
+
+Sitzung 16 (21.11)
+Besprechung und Abhandlung des Timeskips
+18.1 981 zu 19.2. 981

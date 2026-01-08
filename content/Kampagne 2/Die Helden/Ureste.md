@@ -15,3 +15,10 @@ Im frühen Winter des Jahres 976 fand [[Thora Björnskinn|Thora]] von den Schnee
 
 ### Abenteuer
 Am Tag der Wintersonnenwende im Jahre 980 brach Ureste, zusammen mit [[Ulfric Thorfinnson|Ulfric]], [[Gwent Ar-Gul|Gwent]] und [[Týrdaan Cindaanson|Týrdaan]] im Namen des Königs der Eismänner auf, um bis zum Sommer einen Landungskopf für die Armee zu schaffen und die Rückkehr der Eismänner auf das Festland zu ermöglichen.
+
+
+%%
+
+
+
+%%

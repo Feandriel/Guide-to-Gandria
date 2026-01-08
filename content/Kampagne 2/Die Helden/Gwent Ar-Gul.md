@@ -22,3 +22,10 @@ So verbrachten die beiden 20 Jahre in Varmog Gronn und erlebten gemeinsam Abente
 
 ### Abenteuer
 Am Tag der Wintersonnenwende im Jahre 980 brach Gwent Ar-Gul, zusammen mit [[Ulfric Thorfinnson|Ulfric]], [[Týrdaan Cindaanson|Týrdaan]] und [[Ureste]] im Namen des Königs der Eismänner auf, um bis zum Sommer einen Landungskopf für die Armee zu schaffen und die Rückkehr der Eismänner auf das Festland zu ermöglichen.
+
+%% 
+Vater Firn Ar-Gul (Barde), Großvater Rodryn Ar-Gul (Magier)
+Mutter Lynafia (Prinzessin aus Cyrandorei, Geschlecht mit Snaersfolk Verbindung?)
+
+Sorcerer-Bloodline: Draconic (Gold) -> Golden vs Silver Dragons/ Golden vs White / Metallic vs Chromatic; Urpsrung der Blutlinie?
+%%
