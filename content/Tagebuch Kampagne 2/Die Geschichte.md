@@ -149,7 +149,7 @@ Dort lernte man ein wenig über die Trance und was Ulfric während dieser wahrna
 Schließlich führte Mjoll die Gruppe zum Fuße des Berges, und gemeinsam mit Idezi betrat man einen geheimen Zugang zu den Katakomben der Burg.
 
 #### Sitzung 13
-==**12. Abadius 981**==
+**==12. Abadius 981==**
 
 In diesen Katakomben traf die Gemeinschaft auf einen tauben Zwerg, welcher der hiesige Schmied zu sein schien, den todesfürchtigen Elfen welcher sich als Ausstatter vorgestellt hatte, und einen stummen Schreiberling, welcher vom Ausstatter als Schreiberling vorgestellt wurde.
 Der Ausstatter erzählte flüsternd ein wenig über seine Vergangenheit und seine wiederholten Wiederbelebungen sofern er gebraucht wurde. Da er aber auch längere Zeitabschnitte tot verbrachte, konnte er keine genauen Zeitangaben und Informationen wiedergeben. Nachdem einige Infos aus ihm gequetscht wurden, und ihm auch einige Infos zuteil wurden und er so seinen Auftrag korrekt ausführen konnte, teilte sich die Gruppe nach ihrer korrekten Rückkehr ins Schloss, durch einen kleinen Bedienstetengang, auf. Idezi, welche Mjoll aus dem Schloss warf, trainierte mit Ulfric und Týrdaan, wobei Ulfric während des Trainings bemerkte, wie das blaue Auge Týrdaan's zu leuchten begann.
@@ -158,19 +158,19 @@ Der Tag endete mit viel neuem Wissen zu verdauen, und der nächste begann nicht 
 Abschließend bekam die gruppe den Auftrag einen vierarmigen Riesen zu töten, welcher den König verärgert und dessen Vorräte gestohlen hatte. Sie bekamen eine rudimentäre Wegbeschreibung und ein großzügiges Geschenk, wurden dann zügig auf den Weg entsandt.
 
 #### Sitzung 14 (19.9)
-==**13. Abadius - 15. Abadius 981**==
+**==13. Abadius - 15. Abadius 981==**
 Auf ihrem Weg zum Kampf gegen den Riesen, gelangte unsere Gruppe, mit Mjoll im Schlepp, an den alten Wachturm der an der Kante des lokalen Plateaus wachte und entschied sich in diesem zu rasten. Man fand einige interessante Kleinigkeiten und eine windgeschützte Raststätte, deren uralten, hölzernen Innenraum man am nächsten Morgen beim Aufbruch in Brand steckte, um herauszufinden was unter dem Eis und Holz lag. 
 Die Königin, Nerefina die Grüne, nahm zur Gruppe Kontakt auf und klärte den Verlauf seit Aufbruch ab und legte die Kommunikation ab nun über Gwent fest, da seit jeher anscheinend Týrdaans Hirn beeinflusst wäre und die Verbindung zu ihm bisher kein einziges mal zustande kam - bisher.
 Der Kampf gegen den Riesen verlief recht entspannt, der Macht Ulfrics zum Dank, und nachdem man die Beute des Riesens aufgesammelt hatte, machte man sich auch wieder auf den Rückweg zum Wolkenberg.
 #### Sitzung 15 (7.11)
-==**15. Abadius - 17. Abadius 981**==
+**==15. Abadius - 17. Abadius 981==**
 
 #### Sitzung 16 (21.11)
 Besprechung und Abhandlung des Timeskips
-==**18. Abadius 981 zu 19. Calistril 981**==
+**==18. Abadius 981 zu 19. Calistril 981==**
 
 #### Sitzung 17
-==**19. Calistril 981 - 24. Calistril 981**==
+**==19. Calistril 981 - 24. Calistril 981==**
 
 Nachdem die Gruppe an einem steinigen Strand, weiter im Süden, aufgetaucht war, nutzten sie die ersten Momente zum durchatmen und umschauen. Natürlich fragten Týrdaan und Gwent auch die Drachen aus die mit ihnen gekommen waren.
 Um sich besser und schneller orientieren zu können, teilten sich alle Mitgleider auf und erkundeten eine andere Richtung, während Týrdaan mit verbundenen Augen zurückblieb. Von dieser Erkundung kehrten die Gruppenmitglieder und Mjoll zurück, während Idezi und Viggo verschwunden blieben.
@@ -179,14 +179,14 @@ Nach einer kurzen Wanderung erkannte Ulfric die Gegend und führte die Gruppe in
 Eine Woche nach ihrer Ankunft, waren sie bereit aufzubrechen, und segelten Richtung Süden, um über den Fjordzugang in die Wilden Lande überzusetzen und zum Roten Berg zu segeln.
 
 #### Sitzung 18
-==**24. Calistril 981 - 26. Calistril 981**==
+**==24. Calistril 981 - 26. Calistril 981==**
 
 Mit einigen Startschwierigkeiten brach unsere Gruppe Richtung Süden auf und segelte bis zu einer kleinen Insel vor der Küste Bestia's und von da aus weiter Richtung Osten. Sie hielten in einer kleinen versteckten Bucht und rasteten dort, vorsichtig nicht entdeckt zu werden und den Raptoren, welche sie vom Schiff aus gesehen hatten, keinerlei Hinweise auf ihre Ankunft zu hinterlassen. Gwent entschied sich, Ureste auf sein Gänseblümchen Bertram anzusprechen und dessen Ursprünge und den Grund für seine böse Aura zu erfahren. Ureste und Gwent besprachen sich, während Ureste Bertram ausfragte und, in der Impression belogen zu werden, sich schlussendlich dazu entschied Bertram zu vernichten. Für einen kurzen Moment schien es, als würde ein epischer Kampf gegen einen Teufel beginnen, doch am Ende des Tages war Bertram nur ein Gänseblümchen... zugegebenermaßen mit einem Seelenstein zwischen seinen Wurzeln, aber nonetheless ein Gänseblümchen. Sein Tod kam schnell und ohne große Umstände.
 Am nächsten Tag machte sich die Gruppe erneut auf und stellte sich dem nächsten Schritt ihrer Reise, einem kleinen Umweg um die belebte Küste um die Hobgoblinstadt Genua zu vermeiden und den Booten der Fischer aus dem Weg zu gehen. Sie landeten auf einer kleinen Insel, ein gutes Stück vor der Küste und entdeckten dort ein auf den Strand gezogenes Boot. Plötzlich ethisch motiviert und durch ihre Umgebung vorsichtiger geworden, untersuchen sie die Spuren und finden die eines Humanoiden, potenziell eines Menschen, und die eines Bugbears. Sie entscheiden sich dazu, das Boot Boot sein zu lassen und nichts vom Inhalt zu stehlen, sondern den Spuren zu folgen und den armen Sklaven zu retten, der vom Bugbear hierher verschleppt wurde.
 
 Als sie jedoch am Ende der Spuren ankommen, entdecken sie einen gefesselten Bugbear in der Mitte einer kleinen Talsenke und werden prompt in einen Kampf verwickelt. Ulfric bricht hierzu der "Geisel", dem Bugbear. das Genick um die Angreifer zu bestrafen und den Geiselaustausch für diese zu ruinieren, allerdings ohne Erfolg. 
 #### Sitzung 19
-==**26. Calistril 981**==
+**==26. Calistril 981==**
 
 Doch unsere Gruppe wäre nicht als die Helden und Hoffnung der Kalde Menn ausgewählt worden, wenn sie sich von so etwas kleinem wie einem Hinterhalt unterkriegen lassen würden, und so schaffen sie es, die Gegner in eine Patt-Situation zu zwingen. Gwent's Leben wird schließlich gegen das Leben der Harpyie getauscht und die Hobgoblin Bogenschützin lässt ab und zieht sich zurück.
 Eine weitere informative Ausfragerunde später, wird die Harpyie als Geisel mitgeschleppt und zum Boot zurückgekehrt, als Mjoll sich telepathisch meldet und die Ankunft einer Galeere und einiger mächtiger Gestalten verkündet. Gwent bittet sie die Neuankömmlinge anzugreifen und zu besiegen, Týrdaan würde dies sicherlich gefallen, und Mjoll gibt ihr bestes die Medusa und den Minotauren zu besiegen. Sie wird jedoch selbst gefangen genommen und der Minotaurus hält sie nun am Nacken um die Gruppe auf Abstand zu halten. Er entdeckt auch den, von Gwent bezauberten, unsichtbaren Ulfric, der sich in Hoffnung auf ein weiteres Attentat näher heranschleichen wollte.
