@@ -138,6 +138,7 @@ So führte es Týrdaan und Ulfric nach Valhalla, wo sie jedoch nicht allzu lange
 
 #### Sitzung 12
 **==12. Abadius 981==**
+
 Týrdaan und Ulfric wurden von Idezi in ihre Gemächer zurückgebracht und zwei jungfräuliche Dienerinnen wurden gefunden, welche freiwillig das Bett mit beiden teilten um ihnen in dieser Nacht ein neues Leben zu schenken. Zumindest war dies die Hoffnung der Drachendame, welche die Folgen ihres Versagens fürchtete.
 Es schien zu klappen, denn Ulfric erwachte, Schmerzen und den Zorn der Blitze an seine Bettgefährtin weitergebend und mit dem Mal des Thor's auf seine eigene Brust gebrannt.
 Kurze Zeit später erwachte auch Týrdaan, dessen Amulett auf seiner Brust Feuer zu fangen schien und sich in seine Haut einbrannte.
