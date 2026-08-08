@@ -490,20 +490,15 @@ Er wurde zum:
 Sein anfängliches Portfolio umfasste teilweise:
 
 - **Tod**
-    
 - **Seelen**
-    
 - **Untod**
-    
 
 Seine eigentliche Stellung lag jedoch im **Limbo und Schleier**, dem Zwischenraum, den viele Seelen auf ihrem letzten Weg durchqueren.
 
 Damit wurde Sleceet nicht zu einem Ersatz für Pharasma.
-
 Pharasma blieb Herrin über ihre eigene Ordnung des Todes und den Totenacker.
 
 Sleceets Amt war vielmehr das eines **Hüters des Übergangs**.
-
 Ironischerweise genau jenes Amt, das Halnok ursprünglich hätte erfüllen sollen.
 
 ---
@@ -516,7 +511,7 @@ Sleceet stieg als:
 
 auf.
 
-Seine Methoden und seine Bereitschaft zu grausamer Strafe ließen ihn jedoch deutlich in Richtung:
+Seine Methoden der Apotheose und seine Bereitschaft zu grausamer Strafe ließen ihn jedoch deutlich in Richtung:
 
 > **Rechtschaffen Böse**
 
@@ -525,6 +520,8 @@ tendieren.
 Er strebte nach Gleichheit aller Seelen vor einer Ordnung.
 
 Doch diese Gleichheit konnte ebenso bedeuten, dass niemand vor einer grausamen Strafe geschützt wurde.
+Wer in seinem Leben Schaden anrichtete und den Tod als leichtesten Ausweg nicht verdient, der sollte in seinen Augen Buße tun und ein zweites, unfreies Leben in Knechtschaft verbringen bis er seine Schuld beglichen und das Gleichgewicht wiederhergestellt hatte. 
+Wer jedoch ein gutes Leben geführt hatte und unzeitmäßig dem Tod in die Arme lief, ein frühzeitiges oder unvorhergesehenes Ende ohne jedwede Chancen fand, der sollte von ihm eine solche Chance gewährt bekommen, eine kleine Verlängerung seines Lebens, und sei es nur um sich zu verabschieden.
 
 ---
 
