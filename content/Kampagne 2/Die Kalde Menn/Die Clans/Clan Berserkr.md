@@ -1,24 +1,168 @@
-## Die Berserker...
+## Die Söhne Fenris'
 
-Es gibt kaum einen Clan über den so viel und so wenig bekannt ist. Die meisten wissen nicht genau was in den Hallen dieses Clans vor sich geht, warum sie sind wie sie eben sind oder wer derjenige ist der sie gerade versucht zu Knochenmehl zu zerschlagen. Es kümmert die meisten auch nicht, denn sie wissen genug.
+*"Nur wer sich selbst besiegt, darf andere beschützen."*
 
-#### Einzigartige Kraft
+---
 
-Die Berserkr verfügen über das Geschenk der Kraft und Unnachgiebigkeit, allerdings auf Kosten von Rationalität und Kontrolle. Berserker verfallen regelmäßig in unaufhaltbare Wutausbrüche und verlieren dabei den Überblick darüber wer Freund oder Feind ist. Nur diejenigen die sich lange mit ihrer eigenen Kraft auseinandersetzten und trainierten diese zu verstehen, zu be- und ergreifen, die erlangen Kontrolle. Doch bisher hat niemand diese Kraft gemeistert. Wird in einem der anderen Clans ein Kind mit den Fähigkeiten eines Berserkers erkannt, so wird ihm das traditionelle der Berserker tätowiert und er wird dem Clan der Berserkr übergeben um die Kontrolle über seinen Körper zu erlernen.
+# Überblick
 
-Die Krieger und Plünderer die bereits mit Berserkern Seite an Seite oder Faust gegen Faust gekämpft haben erzählen in Geschichten dieses Rausches, dass die Berserker tiefschwarze Augen und eine dampfende, beinahe glühende Haut und das Waffen an dieser zerbrechen und zersplittern würden. Wer also einmal einem Krieger entgegensteht welcher von allen Göttern verlassen erscheint und dessen Augen ein tiefes schwarz angenommen haben, der sollte beten oder sich auf einen anstrengenden Faustkampf gefasst machen.
+Der **Clan Berserkr** gilt als der körperlich stärkste der fünf großen Clans der Kalde Menn und zugleich als der am meisten gefürchtete.
 
-#### Überblick
+Seine Angehörigen werden im gesamten Norden als furchtlose Krieger gefürchtet. Geschichten erzählen von Männern und Frauen mit pechschwarzen Augen, dampfender Haut und einer Kraft, welche selbst Riesen niederstrecken könne.
 
-Auf dem Gebiet der Berserker, einem glücklicherweise recht kleinem Teil der Stadt, gibt es so gut wie keine Gesetze und Wachen. Jeder hier ist in der Lage sich selbst zu verteidigen und jeder hier folgt dem [[Jarl Fen Berserkr|Jarl, Fen Berserkr]], loyal und geradezu gottesfürchtig. Zwar endet grob jede dritte Schlägerei mit dem Tod einer der Beteiligten, doch zum Glück sind Berserker nicht nur großartig im Schläge austeilen, sondern auch unerreicht im Schläge einstecken. Diebstahl, nachgewiesener Mord und besonders Völlerei werden aber genauso bestraft wie in jedem anderen Stadtteil.
+Doch hinter diesen Geschichten verbirgt sich ein Volk, das weniger gegen seine Feinde kämpft als gegen sich selbst.
 
-Zwar trägt die Hauptfamilie dieses Clans den Clannamen, doch nicht immer führte sie den Clan an, denn der Jarl der Berserker wird durch Kontrolle, Respekt und Vertrauen ausgezeichnet und erkämpft sich so den Platz an der Spitze. Die Kinder der Familie Berserkr werden daher strengen und für Außenstehende unmenschlich grausame Trainingseinheiten ausgesetzt, denn die Kräfte die sie erben gelten als groß. Ein Sprichwort der Eismänner für den Versuch das unmögliche zu erreichen lautet : "Den Spuren der Berserkr im Laufschritt folgen und hoffen den Riesen retten zu können!" 
+Seit Generationen tragen die Berserkr eine rätselhafte Gabe in ihrem Blut. Sie verleiht ihnen außergewöhnliche Stärke und Zähigkeit, droht ihren Träger jedoch jederzeit in einen unkontrollierbaren Blutrausch zu stürzen. Woher diese Kraft stammt, weiß heute niemand mehr. Manche nennen sie einen Segen Thors, andere eine Prüfung Odins oder den Fluch eines längst vergessenen Ahnherrn.
 
-#### Hoch geschätzte Eigenschaften
+Gerade deshalb gilt innerhalb des Clans eine Eigenschaft als wichtiger als jede andere:
 
-Die Berserkr ehren Stärke und Kampfkunst, doch ihre wahre Bewunderung verdient man sich durch Treue, Geduld und das Kennen der eigenen Fähigkeiten. Sie sind daher große Freunde der Schneebären und schätzen stets die, die ihre eigenen Grenzen erkennen ungeachtet ob man versucht diese zu überschreiten oder zu akzeptieren. Hat man einmal die Loyalität und Freundschaft eines Berserkers gewonnen, so kann man sich sicher sein das er einem bis ans Ende der Welt folgen würde, sei es im schlimmsten Fall auch um von ihm hingerichtet zu werden wenn man dieses Vertrauen bricht.
+**Selbstbeherrschung.**
 
-#### Schlachtgeschichten
-Die größten Erfolge der Berserker sind der Sturm von [[../../../Muzu|Muzu]] und die Plünderung von [[../../../Tua'lehi|Tua'lehi]]. Bei beiden Schlachten erwarteten die Plünderer hohe Verluste, doch die Berserker stürmten die Orte mit roher Kraft und dem Winter im Nacken, verloren keine einzige Seele (wenn auch ein paar Körperteile) und besiegten die gegnerischen Kräfte nahezu im Alleingang. Die anderen Clans rätseln noch immer, wie die Berserker einander in ihrem Rausch erkennen, wenn sie sonst kaum zwischen Freund und Fein unterscheiden können.
+---
 
-Spätestens seit diesen Plünderungen sind die Nordmänner im gesamten Reich der Sonneninseln als kalte, brutale Schlächter und blutrünstige Monster bekannt, denn der Kampfstil der Berserker lässt sich am ehesten mit dem des Barbaren beschreiben, auch wenn einige trotz allem magische Fähigkeiten und manchmal sogar eine magische Ausbildung besitzen, oder den Kampf aus der Ferne bevorzugen um nicht in einen Rausch zu verfallen.
+# Die Gabe der Berserker
+
+Unter den Kalde Menn werden seit unzähligen Generationen Kinder geboren, deren Körper eine ungewöhnliche Kraft in sich tragen.
+
+Diese sogenannten Berserker besitzen:
+
+- außergewöhnliche körperliche Stärke,
+- eine beinahe übernatürliche Widerstandsfähigkeit,
+- enorme Schmerztoleranz,
+- sowie die Fähigkeit, im Kampf in einen Zustand völliger Raserei zu verfallen.
+
+Während dieses Rausches verändern sich ihre Augen tiefschwarz, ihre Haut erhitzt sich sichtbar und sie entwickeln Kräfte, die weit über jene gewöhnlicher Krieger hinausgehen.
+
+Doch der Preis dafür ist hoch.
+
+Wer die Kontrolle verliert, erkennt oft weder Freund noch Feind.
+
+Kein Berserker weiß, warum diese Gabe existiert oder weshalb sie manche Familien häufiger trifft als andere. Dass sie innerhalb des eigenen Clans besonders verbreitet ist, gilt als ebenso selbstverständlich wie rätselhaft.
+
+Kinder, bei denen sich diese Kräfte früh zeigen, werden unabhängig von ihrer Herkunft traditionell dem Clan Berserkr anvertraut, damit sie lernen, mit ihrer Natur zu leben.
+
+---
+
+# Philosophie
+
+Für Außenstehende scheint Stärke das höchste Gut der Berserkr zu sein.
+
+Innerhalb des Clans denkt man anders.
+
+Ein Berserker besitzt Macht.
+
+Gerade deshalb trägt er Verantwortung.
+
+Ein Krieger, der seine Wut nicht beherrscht, gefährdet seine Brüder ebenso sehr wie seine Feinde.
+
+Daher gelten Eigenschaften wie:
+
+- Kontrolle,
+- Loyalität,
+- Ehrlichkeit,
+- und die Kenntnis der eigenen Grenzen
+
+als weitaus ehrenvoller als rohe Kraft.
+
+Unter den Berserkr heißt es:
+
+> **„Jeder kann kämpfen. Nur wenige können aufhören.“**
+
+---
+
+# Gesellschaft
+
+Das Leben der Berserkr wirkt auf Fremde rau.
+
+Schlägereien gehören zum Alltag.
+
+Wettkämpfe werden ernst genommen.
+
+Narben gelten als Erinnerungen und nicht als Makel.
+
+Dennoch besitzt kaum ein anderer Clan einen ähnlich ausgeprägten Sinn für Selbstbeherrschung und Grenzen. Wer einen Eid bricht, wer seine Brüder verrät, oder seine Gabe wissentlich gegen Unschuldige richtet, hat seinen Platz innerhalb des Clans verwirkt.
+
+Nicht selten wird ein solcher Berserker von seinem eigenen Jarl gerichtet.
+
+---
+
+# Das Hoheitsgebiet
+
+Die Berserkr bewohnen den kleinsten der fünf großen Distrikte Varmog Gronns.
+
+Beschädigte Hütten, Langhäuser und Trainingsplätze prägen das Bild. Wachen sind nur selten zu sehen, denn nahezu jeder Bewohner ist in der Lage, sich selbst und seine Nachbarn zu verteidigen.
+
+Der Distrikt wirkt laut, lebendig und ungeordnet, doch hinter diesem Eindruck verbirgt sich eine Gemeinschaft, deren Mitglieder einander vorbehaltlos vertrauen, auch wenn sie einander ebenso fürchten und respektieren.
+
+---
+
+# Hoch geschätzte Eigenschaften
+
+Die Berserkr bewundern Stärke.
+
+Doch weit mehr noch ehren sie:
+
+- Selbstbeherrschung,
+- Geduld,
+- Loyalität,
+- Ehrlichkeit,
+- und das Wissen um die eigenen Grenzen.
+
+Gerade deshalb genießen die Schneebären unter ihnen hohes Ansehen, da sie Kraft und Geduld in besonderem Maße vereinen.
+
+---
+
+# Beziehungen zu den anderen Clans
+
+Die Berserkr pflegen enge Bande zu den übrigen Clans, auch wenn ihr raues Wesen häufig zu Spannungen führt.
+
+Mit den **Arisson** verbindet sie gegenseitiger Respekt. Die einen führen, die anderen halten die Linie.
+
+Zu **Ängelstad** verbindet sie eine lange Geschichte gemeinsamer Feldzüge. Besonders die Sturmsänger kämpften in vielen berühmten Schlachten Seite an Seite mit den Berserkern.
+
+Mit den **Kvitrave** liefern sie sich seit Jahrhunderten hitzige Wortgefechte. Die Weißen Raben halten die Berserkr für ungestüm, während diese die Elfen gerne als überhebliche Bücherwürmer verspotten. Im Ernstfall kämpfen beide Clans dennoch ohne Zögern gemeinsam.
+
+Die engste Verbindung besteht jedoch zu den **Waldersbarn**. Seit Generationen fällt den Kalde Menn auf, dass beide Clans ungewöhnlich häufig ähnliche Kinder hervorbringen. Warum dies so ist, vermag jedoch niemand zu erklären.
+
+---
+
+# Bedeutende Persönlichkeiten
+
+## [[Jarl Fen Berserkr|Jarl Fen Berserkr]]
+
+Der gegenwärtige Jarl der Berserkr und einer der angesehensten Männer der Kalde Menn.
+
+Fen gilt als Inbegriff dessen, was ein Berserker sein sollte. Trotz seiner gewaltigen Kraft besitzt kaum jemand eine größere Selbstbeherrschung. Während seiner langen Herrschaft richtete er persönlich jeden Berserker, der endgültig der Raserei verfiel, und trägt die Narben dieser Kämpfe bis heute an seinem Körper.
+
+Seine Rückkehr nach einer wochenlangen Odyssee durch Meer, Wildnis und Eis zählt zu den berühmtesten modernen Sagen der Kalde Menn.
+
+---
+
+## Hard Berserkr
+
+Kaum eine Gestalt ist von mehr Gerüchten umgeben als Hard Berserkr.
+
+Selbst die ältesten Elfen erinnern sich daran, dass er bereits in ihrer Jugend als Einsiedler außerhalb der Stadt lebte. Sein wahres Alter kennt heute niemand mehr, ebenso wenig den Grund seines Exils.
+
+Für viele Kinder der Kalde Menn ist Hard weniger Mensch als Schreckgestalt.
+
+---
+
+
+## Ulfric 'Kriegswolf' Thorfinnson
+
+Ulfric gehört zur jüngeren Generation der Berserkr und gilt bereits jetzt als einer ihrer vielversprechendsten Krieger.
+
+Nach dem Tod seiner Eltern nahm Jarl Fen ihn in den weiteren Kreis seiner Familie auf.
+
+Seine außergewöhnliche Größe, seine Kraft und zahlreiche erfolgreiche Fahrten durch die Eiswüste machten ihn früh zu einer bekannten Gestalt innerhalb der Kalde Menn.
+
+---
+
+# Vermächtnis
+
+Kein anderer Clan verkörpert den ewigen Kampf zwischen Stärke und Kontrolle so sehr wie die Berserkr.
+
+Ihre größten Helden wurden nicht deshalb berühmt, weil sie unbesiegbar waren, sondern weil sie sich immer wieder gegen das gefährlichste Wesen behaupteten, das sie kannten.
+
+**Sich selbst.**

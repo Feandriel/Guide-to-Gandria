@@ -19,6 +19,12 @@ Am Tag der Wintersonnenwende im Jahre 980 brach Ulfric Thorfinnson, zusammen mit
 
 
 %%
-Vater: Thorfinn
+Vater: Thorfinn Snaerson
+Genannt: Der Blutadler
+Er war ein gefürchteter Krieger mit großem Potenzial, verlor jedoch den Kampf gegen seine Raserei und erschlug 20 Nordmänner und verletzte unzählige weitere schwer, bevor er von Fen Berserkr und Hronir 'Hunderttod' niedergerungen und getötet wurde.
+
+Hronir trägt die Narben von Thorfinns Fingern welche sich wie Krallen tief in seine Brust und seinen Rücken bohrten nicht mit Stolz, und kämpft seit jenem Tag nicht mehr an der Front. Er hat die Angewohnheit stetig und regelmäßig über seine Schulter zu blicken entwickelt und versteckt dieses Trauma unter noch finstererem Auftreten als vor diesem Ereignis.
+
+Hronir trägt den Namen Hunterttod, da er einmal im Alleingang nahezu 100 Männer erschlug und ein Tor für den Rückzug der Kalde Menn sicherte. Er genöße hohes Ansehen, wenn sein Temperament und seine ungehobelte Art und Vorgehensweise dies nicht untergraben würde. 
 
 %%

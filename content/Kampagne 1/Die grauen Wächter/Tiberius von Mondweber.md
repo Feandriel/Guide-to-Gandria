@@ -7,5 +7,5 @@
 [[Organisationen/Die grauen Wächter|Grauen Wächter]]
 [[Imperialer Adel/Mondweber|Mondweber]]
 [[Imperialer Adel/Varus von Mondweber|Bruder Varus]]
-[[Organisationen/Titanen/Siluris, Titan des Schattens|Siluris]]
+[[../../Titanen/Siluris, Titan des Schattens|Siluris]]
 [[Imperiale Städte/Andoras|Andoras]]

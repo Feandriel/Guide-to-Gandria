@@ -2,14 +2,14 @@
 Das Imperium wurde am 10. Kuthona 407 der dritten Ära von Lord Theodoricus Aeternum Astan dem Ersten ausgerufen, nachdem er die Stadt Resdoras, bis dato Hauptstadt des Reiches Redania, in einer Belagerung vom 7. bis zum 12. Neth in Schutt und Asche gelegt hatte und den umliegenden Königreichen nach und nach ein Ultimatum gestellt hatte. Er vereinte so mehrere Königreiche und unabhängige Staaten und beanspruchte so die Herrschaft über den Norden Gandrias. Natürlich blieben Kämpfe nach der Vernichtung von Resdoras nicht komplett aus, und so ist der Ausruf des Imperiums und seiner Territorien ein reine Formalität.
 
 #### Kriege des Imperiums und seiner Untertanen
-- Gründungskrieg von 23. Rova 407 bis 17. Kuthona 407 gegen : die Königreiche Redania, Vantanis, Urma und das Rätereich Balerno & die Unabhängigen Städte der Westlichen Handelsföderation St. Elyas, (heutiges) Velin und Silvara
+- Gründungskrieg von 23. Rova 407 bis 17. Kuthona 407 gegen : die Königreiche Redania, Vantanis, Urma und die Ratsrepublik Balerno & die Unabhängigen Städte der Westlichen Handelsföderation St. Elyas, (heutiges) Velin und Silvara
 - 416 3. Ära
 	- Blutkrieg, Nereril gegen Imperium
 - 423 3.Ära
 	- Haland gegen Drei-Schwestern
 - 537 3. Ära
 	- Drei-Schwestern gegen Haland
-	- Erste Solomon-Rebellion, Fürstentum Solomon gegen das Imperium
+	- Erste Solomon-Rebellion, Fürstentum Solomon gegen das Imperium => Absetzung des Fürsten, Vermählung mehrerer Kaiserlicher Adeliger mit Solomon Adeligen
 - 539 3.Ära
 	- Erste Silberkrieg, Die Orks der Lakeside Region gegen Silvara
 - 553 3.Ära 
@@ -23,13 +23,11 @@ Das Imperium wurde am 10. Kuthona 407 der dritten Ära von Lord Theodoricus Aete
 - 576 3.Ära
 	- Steinriesenclans gegen Urma
 	- Dunkelforstkrieg, Silvara und Imperium gegen die Reiterclans und Orks der Lakeside Region
-- 599 3.Ära
-	- Titanensturm, Siluris gegen Urma
 - 639 3.Ära 
 	- Magierrevolte, Abtrünnige Magier gegen Kraë'raths Acadamae Chaos
-	- Erster Nachtkrieg, Nereril gegen Räterepublik Balerno
+	- Erster Nachtkrieg, Nereril gegen Ratsrepublik Balerno
 - 642 3.Ära
-	- Zweite Solomon-Rebellion, Fürstentum Solomon gegen das Imperium
+	- Zweite Solomon-Rebellion, Fürstentum Solomon gegen das Imperium => Handelsembargo, Strafzahlungen, Militärische Bereinigung und Stationierung imperialer Truppen. Hauptaktionäre hingerichtet, deren Familien in die Sklaverei verkauft
 - 650 3.Ära
 	- Handelsdisput, Imperium gegen Amdorias (Monetarer Krieg)
 	- Krieg der wandelnden Toten, Fürstentum Solomon gegen Ratsrepublik Balerno  => Legende des Schattenmonarch und Neutralitätsschwur der Monarchen
@@ -49,11 +47,11 @@ Das Imperium wurde am 10. Kuthona 407 der dritten Ära von Lord Theodoricus Aete
 	- Goblinkampagne, Ad-Torre gegen Goblinclans
 	- Zweiter Dunkelforstkrieg, Reiterclans gegen das Imperium
 - 975 3.Ära
-	- [[Historische Ereignisse/Schattenkrieg|Schattenkrieg]], Imperium gegen Baronie Solomon => Abspaltung des Solomon-Reichs
+	- [[Historische Ereignisse/Schattenkrieg|Schattenkrieg]], Imperium gegen Baronie Solomon => Abspaltung des Solomon-Reichs, Imperium stößt Solomon ab, konfisziert vorher Reichtümer und verwüstet weite Teile des Landes; großflächiger Einsatz geheimer Elitetruppen
 
 ### Geographische Grenzen
 Das astanische Imperium erstreckt sich über weite Teile des nordöstlichen Teils von Gandria. Es wird im Westen begrenzt durch das Schwarze Meer und endet dadurch an der Küste, beziehungsweise an der Götterfallbucht an den Ufern des in die Bucht mündenden Flusses, dem "[[Flinkwasser]]". Innerhalb der Götterfallbucht kontrolliert das Imperium auch zwei der drei Inseln, welche aufgrund ihrer Form als die Fünf-Finger-Inseln bekannt sind.
-Im Osten grenzt das Imperium an die Gebiete der Orkstämme und Riesen, beides durch die Flüsterberge abgeschnitten, an die Wilden Lande Bestia (auch als Reiterebenen bekannt) und außerdem an die Ländereien der Freien Städte, dessen Triumvirat sich Amdorias taufte, heutzutage getrennt durch eine verwüstete und nahezu unbewohnte große Ebene und die Ausläufer des Flüstergebirges.
+Im Osten grenzt das Imperium an die Gebiete der Orkstämme und Riesen, beides durch die Flüsterberge abgeschnitten, an die Wilden Lande Bestia (auch als Reiterebenen bekannt) und außerdem an die Ländereien der Freien Städte, dessen Triumvirat sich Amdorias taufte, heutzutage getrennt durch eine verwüstete und nahezu unbewohnte große Ebene und die Ausläufer der Flüsterberge.
 Der schwarze Fels bildet hierbei die südlichste, natürliche Barriere zu den Freien Städten und gleichzeitig die nördlichst gelegene zum elfischen Königreich Cysion, welches an das Imperium im Süden und Südosten angrenzt. Dabei spielt der Flusslauf des "[[Arduín|Großen Flusses]]" (elv. "*Arduín*"), welcher sich später in den "[[Arduín|Westfluss]]" (elv. "*Renduín*") und den "[[Arduín|Ostfluss]]" (elv. "*Lamduín*") trennt, eine große Rolle, da er die direkte Wasserstraße zwischen der imperialen Stadt Urma und der Cysischen Hauptstadt Cyrandorei bildet, und der in beide Flüsse fließende "[[Arduín|Waldwasser]]" (elv. *"Shantarduín"*) gleichzeitig die Grenze zwischen beiden Staaten darstellt.
 Im Norden bildet das ewige Eis zusammen mit den Winterklüften eine natürliche Grenze, während der "[[Venoriniar|Stillwasser]]" (drow *"Venoriniar"*) und die Berge des Nachtpass die Grenze zum Königreich Nereril darstellen.
 
@@ -104,10 +102,10 @@ Im Norden bildet das ewige Eis zusammen mit den Winterklüften eine natürliche 
 - [[Kampagne 1/Imperiale Städte/Durmista|Durmista]],Hauptstadt des gleichnamigen Fürstentums im Dämmerwald
 	- [[Kampagne 1/Imperiale Städte/Saveland|Saveland]] Geburtsort der kürzlich verstorbenen Anna von Saveland, größte menschliche Siedlung in Durmista
 
-- [[Kampagne 1/Imperiale Städte/Esteras|Esteras]], unabhängige Festungsstadt am Silbersee, Sitz der Silbernen Templer
-- Schwarzfels, unabhängige Festungsstadt am Kalten Stillwasser, Sitz der Nachtwache
+- [[Kampagne 1/Imperiale Städte/Esteras|Esteras]], von Adelshäusern unabhängige Festungsstadt am Silbersee, Sitz der Silbernen Templer
+- Schwarzfels, von Adelshäusern unabhängige Festungsstadt am Kalten Stillwasser, Sitz der Nachtwache
 	- Lichtwacht, Imperiales Tor des Nachtpass
-- Fort Lanwehr, unabhängige Festungs- und Grenzstadt zu den Wilden Landen, Sitz des Orden der Roten Speere
+- Fort Lanwehr, von Adelshäusern unabhängige Festungs- und Grenzstadt zu den Wilden Landen, Sitz des Orden der Roten Speere
 	- Burg Dunkelforst, Schwarzpfeile
 	- Burg Wasserwacht
 

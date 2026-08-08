@@ -5,4 +5,4 @@
 [[Cysion]]
 [[Sleceet Fleem]]
 [[../Ultima/Finvardel Masuqualis-Filavandra]]
-[[../Organisationen/Titanen/Siluris, Titan des Schattens]]
+[[../../Titanen/Siluris, Titan des Schattens]]

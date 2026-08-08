@@ -4,4 +4,4 @@
 [[../Imperialer Adel/Labin Le'Noir]]
 [[../Imperialer Adel/Breri]]
 [[Fujin]]
-[[../Organisationen/Titanen/Siluris, Titan des Schattens]]
+[[../../Titanen/Siluris, Titan des Schattens]]

@@ -1,6 +1,6 @@
 ![[Bilder/Nerestina_Ängelsdottir.png]]
 
-Königin der Eismänner, Frau von [[König Brandt Arisson]] und Jarl ihres eigenen [[../Die Clans/Clan Valkyren|Clans]]. Nerestina _die Grüne_ ist eine wahrhaft mächtige Frau, führt sie auch noch die geisterhaften Winterkriegerinnen an, welche auf den Sonneninseln dafür bekannt sind den Winter mit sich zu bringen wenn sie angreifen.
+Königin der Eismänner, Frau von [[König Brandt Arisson]] und Jarl ihres eigenen [[../Die Clans/Clan Ängelstad|Clans]]. Nerestina _die Grüne_ ist eine wahrhaft mächtige Frau, führt sie auch noch die geisterhaften Winterkriegerinnen an, welche auf den Sonneninseln dafür bekannt sind den Winter mit sich zu bringen wenn sie angreifen.
 
 Nerestina selbst ist jedoch eine gutmütige und großherzige Frau, die mit lockerer Hand und von ihren Untertanen respektiert und geliebt über ihren Clan regiert. Sie ist auch eine begabte Gärtnerin, Magierin und Trinkerin.
 

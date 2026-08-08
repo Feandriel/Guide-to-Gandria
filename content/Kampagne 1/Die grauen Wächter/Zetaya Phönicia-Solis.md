@@ -8,7 +8,7 @@
 [[../Organisationen/Kämpfer der Abendröte]]
 [[../Omega]]
 [[../Imperialer Adel/Phönicia]]
-[[../Organisationen/Titanen/Siluris, Titan des Schattens]]
+[[../../Titanen/Siluris, Titan des Schattens]]
 
 
 #### Anhang
