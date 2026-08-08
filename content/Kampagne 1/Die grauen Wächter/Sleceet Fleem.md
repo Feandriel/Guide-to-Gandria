@@ -2,21 +2,21 @@
 > _„Denn der Tod und das Limbo sind ewig. Sie brauchen keine Verehrung. Du brauchst keine. Du bist. Du wirst sein. Und nicht.“_
 
 
-|**Geburtsname**|Vitus von Mahr|
-|**Späterer Name**|Sleceet Fleem|
-|**Volk**|Aasimar|
-|**Geburtsort**|Mahr, am Rand von Thalassias Kessel|
-|**Alter zu Beginn der bekannten Ereignisse**|ca. 23 Jahre|
-|**Ziehmutter**|Safyra Fleem|
-|**Organisation**|Orden des Grauen Schleiers|
-|**Berufung**|Nekromant, Magier, Heiler|
-|**Glaube**|vor allem Nethys; später unmittelbarer Kontakt zu mehreren göttlichen Mächten|
-|**Bekannte Beinamen**|Retter von Urma|
-|**Späterer Status**|Gott des Limbos|
-|**Göttliche Ausrichtung**|Rechtschaffen Neutral, mit deutlicher Tendenz zu Rechtschaffen Böse|
-|**Göttliche Bereiche**|Limbo, Teile von Tod und Seelen, Unterdomäne Untod|
-|**Vorgänger**|Halnok|
-|**Besondere Merkmale**|mitternachtsblaue Haut, nekromantischer Knochenarm; nach dem Aufstieg frei wählbares Erscheinungsalter|
+**Geburtsname** Vitus von Mahr
+**Späterer Name** Sleceet Fleem
+**Volk** Glutgeborener Aasimar
+**Geboren in** Mahr, am Rand von Thalassias Kessel
+**Aufgewachsen in** Kraë'rath
+**Alter zu Beginn der bekannten Ereignisse** ca. 23 Jahre
+**Ziehmutter** Safyra Fleem
+**Organisation** Orden des Grauen Schleiers
+**Berufung** Nekromant, Magier, Heiler
+**Glaube** vor allem Nethys; später unmittelbarer Kontakt zu mehreren göttlichen Mächten
+**Bekannte Beinamen** Retter von Urma
+**Späterer Status** Gott des Limbos
+**Göttliche Ausrichtung** Rechtschaffen Neutral, mit deutlicher Tendenz zu Rechtschaffen Böse
+**Göttliche Bereiche** Limbo, Teile von Tod und Seelen, Unterdomäne Untod
+**Besondere Merkmale** mitternachtsblaue Haut, nekromantischer Knochenarm; nach dem Aufstieg frei wählbares Erscheinungsalter
 
 ## Überblick
 
