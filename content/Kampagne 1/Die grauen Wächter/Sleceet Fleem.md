@@ -5,7 +5,7 @@
 - **Geburtsname** Vitus von Mahr
 - **Späterer Name** Sleceet Fleem
 - **Volk** Glutgeborener Aasimar
-- **Geboren in** Mahr, am Rand von Thalassias Kessel
+- **Geboren in** Mahr, am Rand von Thalassias Kessel, am
 - **Aufgewachsen in** Kraë'rath
 - **Alter zu Beginn der bekannten Ereignisse** ca. 23 Jahre
 - **Ziehmutter** Safyra Fleem
@@ -20,7 +20,7 @@
 
 ## Überblick
 
-**Sleceet Fleem**, geboren als **Vitus**, war ein Aasimar, Nekromant und Angehöriger des Ordens des Grauen Schleiers, der während der Ereignisse um die Wiederkehr des Schattentitanen Siluris zu einer der ungewöhnlichsten jungen Gottheiten Gandrias aufstieg.
+**Sleceet Fleem**, geboren als **Vitus** von Mahr, war ein Aasimar, Nekromant und Angehöriger des Ordens des Grauen Schleiers, der während der Ereignisse um die Wiederkehr des Schattentitanen Siluris zu einer der ungewöhnlichsten jungen Gottheiten Gandrias aufstieg.
 
 Sein Leben war von Anfang an eng mit dem Tod verbunden. Als Kind verhungerte Vitus während einer großen Dürre beinahe vor den Toren Kraë’raths, starb und wurde durch die Bemühungen der Abadar-Heilerin Safyra wieder ins Leben zurückgerufen. Später wuchs er unter Nekromanten auf, erhielt für seinen verlorenen Arm ein funktionsfähiges Skelettglied und widmete einen großen Teil seines Lebens der Erforschung von Tod, Untod und Wiederbelebung.
 
@@ -38,10 +38,9 @@ Er wurde zum neuen **Gott des Limbos**.
 
 ## Mahr und die Hungersnot
 
-Vitus wurde etwa 23 Jahre vor den Ereignissen der ersten Kampagne in **Mahr** geboren, einem kleinen Dorf am Rande von **Thalassias Kessel**.
+Vitus wurde am 20. Pharast des Jahres 952 der dritten Ära in **Mahr** geboren, einem kleinen Dorf am Rande von **Thalassias Kessel**, im Herzogtum Alt-Astanis.
 
-Seine frühen Lebensjahre fielen in eine schwere Dürre und Hungersnot.
-
+Seine frühen Lebensjahre fielen in eine schwere Dürre und Hungersnot, welche zu dieser Zeit herrschte und die Umgebung und Zeit prägten.
 Die Familie besaß kaum genug zum Überleben. Vitus’ Vater gab seiner Frau und seinem Sohn alles, was er verdienen, eintauschen oder anderweitig beschaffen konnte, und starb schließlich selbst als Erster.
 
 Damit blieben Vitus und seine Mutter praktisch ohne Versorgung zurück.
@@ -50,9 +49,7 @@ Gemeinsam mit mehreren anderen Bewohnern verließen sie Mahr. Die kleine Flücht
 
 Viele erreichten ihr Ziel nicht.
 
-Auch Vitus und seine Mutter wurden erst in den Wäldern nahe Kraë’rath gefunden, beide bereits vom Hunger gezeichnet und dem Tod nahe.
-
-Vitus starb unmittelbar vor den Toren der Stadt.
+Auch Vitus und seine Mutter wurden erst in den Wäldern vor Kraë’rath gefunden, beide bereits vom Hunger gezeichnet und dem Tod nahe. Vitus starb unmittelbar hinter den Toren der Stadt.
 
 ---
 
@@ -76,11 +73,11 @@ Sein Geburtsname **Vitus** geriet dadurch zunächst in Vergessenheit.
 
 # Safyra
 
-Die Heilerin **Safyra Wati**, eine Halbelfe im Dienst Abadars und des Grauen Schleiers, hatte kurz zuvor selbst ihr Kind verloren, als ihre Karawane überfallen worden war.
+Die Heilerin **Safyra Fleem**, eine Halbelfe im Dienst Abadars und des Grauen Schleiers, hatte kurz zuvor selbst ihr Kind verloren, als ihre Karawane überfallen worden war.
 
 Die Verzweiflung der unbekannten Mutter traf sie entsprechend hart.
 
-Safyra entschloss sich, deren letzten Wunsch zu erfüllen.
+Safyra entschloss sich, ihren letzten Wunsch zu erfüllen.
 
 Sie betete zu Abadar und den Mächten, die bereit sein mochten zu helfen, bezahlte das notwendige Ritual aus eigenen Mitteln und begann mit einer Wiederbelebung, obwohl selbst sie kaum daran glaubte, dass der Junge noch gerettet werden konnte.
 
@@ -124,9 +121,9 @@ Diese Umgebung prägte seine spätere Moral entscheidend.
 
 # Der Knochenarm
 
-Während seiner Jugend erhielt Sleceet von den Nekromanten des Ordens einen Ersatz für den verlorenen Arm.
+Während seiner Jugend erhielt Sleceet von Tebryn Vrinn dem obersten Nekromanten des Ordens einen Ersatz für den verlorenen Arm.
 
-Sie erschufen ihm einen voll funktionsfähigen **Knochenarm**.
+Er erschufen ihm einen voll funktionsfähigen **Knochenarm**.
 
 Für Außenstehende konnte dieser wie ein groteskes Produkt verbotener Nekromantie erscheinen. Für Sleceet war er dagegen schlicht ein Teil seines Körpers und zugleich eines seiner frühesten Beispiele dafür, dass Nekromantie nicht zwangsläufig Zerstörung bedeuten musste.
 
@@ -143,37 +140,15 @@ Sleceet zeigte früh außergewöhnliches Talent für Magie.
 Insbesondere lagen ihm:
 
 - Nekromantie,
-    
-- Heilung,
-    
-- magische Theorie,
-    
-- später auch zahlreiche andere arkane Disziplinen.
-    
+- Heilung,    
+- magische Theorie,    
+- später auch zahlreiche andere arkane Disziplinen.    
 
 Seine Fähigkeiten entwickelten sich ungewöhnlich schnell.
 
 Das verschaffte ihm Anerkennung, verschlechterte jedoch zugleich sein Verhältnis zu manchen anderen Schülern des Tempels. Sleceet galt nicht unbedingt als leicht zugänglich und besaß schon früh eine starke Überzeugung von seinen eigenen Fähigkeiten und Schlussfolgerungen.
 
 Er entwickelte sich schließlich selbst zu einem Nekromanten des Grauen Schleiers.
-
----
-
-# Äußeres
-
-Schon vor seiner Apotheose war Sleceet aufgrund seines Knochenarms ungewöhnlich.
-
-Während seiner Abenteuer kam ein weiterer dauerhafter Effekt hinzu:
-
-### Mitternachtsblaue Haut
-
-Ein permanenter Effekt Wilder Magie färbte Sleceets Haut **tief mitternachtsblau**.
-
-Damit entfernte sich sein Äußeres zunehmend von dem eines gewöhnlichen Aasimars.
-
-Der Effekt blieb dauerhaft bestehen.
-
-Nach seiner Apotheose verlor das körperliche Erscheinungsbild jedoch einen Teil seiner Bedeutung. Seine materielle Gestalt war fortan nur noch eine **Inkarnation**, deren erscheinendes Alter Sleceet selbst bestimmen konnte.
 
 ---
 
@@ -277,7 +252,7 @@ Hinter einer falschen Wand fanden sie schließlich das Grab **Gorms**, des letzt
 
 Dort lag neben seiner Grabinschrift auch die **Krone eines wahren Königs**.
 
-Sleceet wusste zu diesem Zeitpunkt noch nicht vollständig, welchen politischen Wert dieser Fund besitzen würde.
+Sleceet gab diese Gerg, Gorms Sohn, damit dieser seinen rechtmäßigen Platz als König seines Volkes einnehmen konnte.
 
 ---
 
@@ -287,22 +262,14 @@ Schon lange vor seiner Apotheose wurde Sleceet von ungewöhnlichen Träumen heim
 
 Wiederkehrende Motive waren:
 
-- ein tiefer Abgrund,
-    
-- Nebel,
-    
-- eine Wand aus leidenden Toten,
-    
-- schwarze Adern im Himmel,
-    
-- Stimmen aus der Ferne,
-    
-- das Wort beziehungsweise der Name **Vitus**,
-    
-- eine in Flammen gehüllte Frau,
-    
-- und ein verfallener Mann im Schleier.
-    
+- ein tiefer Abgrund,    
+- Nebel,    
+- eine Wand aus leidenden Toten,    
+- schwarze Adern im Himmel,    
+- Stimmen aus der Ferne,    
+- das Wort beziehungsweise der Name **Vitus**,    
+- eine in Flammen gehüllte Frau,    
+- und ein verfallender Mann im Schleier.    
 
 Diese Träume waren keine gewöhnlichen Albträume.
 
@@ -326,8 +293,6 @@ Eine ihrer wichtigsten Mahnungen lautete:
 
 > **„Hör nicht auf deine Mutter! Vertraue deinen Freunden und findet euren eigenen Weg. Verhindert die Dunkelheit!“**
 
-Welche „Mutter“ damit gemeint war, blieb für Sleceet zunächst unklar.
-
 Nayon sprach außerdem von verschiedenen Mächten, die Anspruch auf Sleceets Seele oder Schicksal erhoben:
 
 seiner Herkunft, Abadar, jener Macht, die ihn gerettet hatte, und jener, die seine Seele für sich beanspruchen wollte.
@@ -336,80 +301,7 @@ Später forderte sie ihn im Namen Sarenraes ausdrücklich auf:
 
 > **„Du musst den Verdorbenen strafen und aufhalten.“**
 
----
-
-# Sein Vater
-
-Der verfallene Mann, der Sleceet im Schleier begegnete, war **sein biologischer Vater**.
-
-Dieser war während der Hungersnot als Erster gestorben.
-
-Doch sein Tod war nicht das Ende gewesen.
-
-Sleceets biologische Familie gehörte zu einer Abstammungslinie, die bereits seit der **Ersten Ära** Halnok gedient hatte.
-
-Nach ihrem Tod gelangten die Seelen dieser Diener in das Limbo und damit in Halnoks Machtbereich.
-
-Dort wartete letztlich ein furchtbares Schicksal auf sie:
-
-> Halnok zermahlte Seelen und verwandelte sie in göttliche Kraft.
-
-Sleceets Vater hatte erkannt, was mit seiner Linie geschah, und versuchte aus dem Schleier heraus alles, um seinen Sohn vor demselben Schicksal zu bewahren.
-
-Er warnte Sleceet:
-
-> **„Vergiss, dass du mich je gesehen hast!“**
-
-> **„Versuche nicht die Tore zu finden, beschütze die Siegel.“**
-
-> **„Vertraue auf keinen Fall den Monarchen, den Schatten oder den Erben!“**
-
-Und schließlich:
-
-> **„Versuche nicht mich zu finden! Niemals!“**
-
-Sein Wunsch war nicht, von seinem Sohn gerettet zu werden.
-
-Er wollte verhindern, dass Sleceet ihm folgte.
-
----
-
-# Halnok
-
-Halnok war ursprünglich ein Gott beziehungsweise göttlicher Hüter des Limbos und des Schleiers.
-
-Seine Aufgabe bestand darin:
-
-> **zu führen, zu leiten, zu verwalten, zu betrachten und den letzten Weg der Seelen zu beschützen.**
-
-Doch nach den Titanenkriegen verlor Halnok erheblich an Macht.
-
-Da er kaum verehrt wurde, fehlte ihm insbesondere die Kraft, erneut einen stabilen physischen Körper zu erschaffen.
-
-Seine Diener begannen deshalb bereits in der Ersten Ära, Seelen für seine Rückkehr anzusammeln.
-
-Generation um Generation wurde dieser Vorrat größer.
-
-Einige Angehörige von Sleceets Ahnenlinie dienten Halnok mit Überzeugung.
-
-Andere zunehmend widerwillig.
-
-Im Lauf der Jahrtausende veränderte sich auch Halnok selbst.
-
-Was ursprünglich der Wunsch gewesen sein mochte, wieder ausreichend stark zu sein, um seine Aufgabe zu erfüllen, wurde zur Obsession.
-
-Er sah zunehmend nur noch:
-
-- seine eigene Wiederherstellung,
-    
-- seinen eigenen Willen,
-    
-- seine eigene Macht.
-    
-
-Der Hüter der Seelen begann die Seelen, die er schützen sollte, als **Brennstoff** zu betrachten.
-
-Für Sleceet erinnerte Halnok schließlich mehr an die gefallenen Titanen als an einen Gott.
+Sleceets Abneigung gegen die Götter fand hier seinen Ursprung, da er sich zunehmend wie ein Spielzeug, oder Schoßhündchen dieser fühlte.
 
 ---
 
@@ -421,9 +313,7 @@ Fanlun hatte einst die für Siluris bestimmte Apotheose usurpiert und war selbst
 
 Die verschiedenen Überreste, Seelenanker und Machtbestandteile des Schattentitanen waren von Ultima über die Welt verstreut und versiegelt worden.
 
-Während der ersten Kampagne drohte diese Ordnung zusammenzubrechen.
-
-Sleceet erkannte, dass er in seiner sterblichen Form kaum eine reale Chance besaß, einem vollständig wiederkehrenden Fanlun entgegenzutreten.
+Während seiner Reisen drohte diese Ordnung zusammenzubrechen und Sleceet erkannte, dass er in seiner sterblichen Form kaum eine reale Chance besaß, einem vollständig wiederkehrenden Fanlun entgegenzutreten.
 
 ---
 
@@ -461,7 +351,7 @@ Seine Motive waren nachvollziehbar.
 
 Seine Methode war es nicht.
 
-Mortalenseelen zu verbrauchen, um göttliche Macht zu gewinnen, war eine Praxis, die erschreckend an jene Entwicklung erinnerte, die bereits zur Verderbnis vieler Titanen geführt hatte.
+Sterbliche Seelen zu verbrauchen, um göttliche Macht zu gewinnen, war eine Praxis, die erschreckend an jene Entwicklung erinnerte, die bereits zur Verderbnis vieler Titanen geführt hatte.
 
 Die Götter ließen Sleceet ihre Enttäuschung deutlich spüren.
 
@@ -481,11 +371,11 @@ Eine neue Gottheit war selbst für die Götter ein seltenes Ereignis.
 
 # Gott des Limbos
 
-Mit seinem Aufstieg verdrängte Sleceet **Halnok** und übernahm dessen metaphysische Stellung.
+Mit seinem Aufstieg verdrängte Sleceet den Gott **[[Halnok|Halnok]]** und übernahm dessen metaphysische Stellung.
 
 Er wurde zum:
 
-## Gott des Limbos
+**Gott des Limbos**
 
 Sein anfängliches Portfolio umfasste teilweise:
 
@@ -579,148 +469,3 @@ Denn der Tod und das Limbo sind ewig. Sie brauchen keine Verehrung. Du brauchst 
 Du bist. Du wirst sein. Und nicht.
 
 ---
-
-## Die Last der Ewigkeit
-
-Sleceet erkannte schnell, dass seine Unsterblichkeit keine bloße Gabe war.
-
-Er würde Freunde, Verbündete und ganze Generationen altern sehen.
-
-Er selbst würde bleiben.
-
-Dadurch wurde für ihn immer wahrscheinlicher, dass er sich eines Tages vollständig aus der sterblichen Welt zurückziehen würde.
-
-Die Frage war nicht:
-
-> **ob** er ging.
-
-Sondern:
-
-> **wann.**
-
----
-
-# Sein Verhältnis zu den alten Göttern
-
-Sleceets Misstrauen und teilweise sogar Hass gegenüber den etablierten Göttern verschwanden nicht.
-
-Doch zum ersten Mal entstand auch Verständnis.
-
-Teilweise.
-
-Denn nun trug Sleceet selbst Verantwortung, konnte nicht überall gleichzeitig handeln und musste Entscheidungen über Dinge treffen, deren Konsequenzen Sterbliche kaum überblicken konnten.
-
-Er begann dadurch zumindest zu begreifen, warum einige Götter handelten, wie sie handelten.
-
-Das bedeutete jedoch keineswegs, dass er ihnen deshalb recht gab.
-
----
-
-# Ein Gott ohne Bedürfnis nach Verehrung
-
-Eine der wichtigsten Erkenntnisse Sleceets nach seinem Aufstieg war, dass seine Existenz nicht unmittelbar von einem Kult abhängig war.
-
-> **Der Tod ist ewig.**
-
-> **Das Limbo ist ewig.**
-
-Solange diese Dinge existierten, bestand auch die metaphysische Grundlage seines Amtes.
-
-Sleceet konnte Verehrung empfangen.
-
-Er konnte Kleriker erschaffen.
-
-Er konnte Religion gründen.
-
-Doch er glaubte nicht, sie für seine bloße Existenz zu benötigen.
-
-Damit unterschied er sich nach eigener Auffassung sowohl von vielen klassischen Gottheiten als auch von den Teufeln, die aktiv nach Seelen griffen.
-
----
-
-# Sleceet und Pharasma
-
-Sleceet verstand sich nicht als Ersatz Pharasmas.
-
-Pharasma hatte ihre eigene Ordnung für die Toten geschaffen.
-
-Sleceets Limbo war etwas anderes:
-
-ein Übergang,
-
-ein Schleier,
-
-ein Raum dazwischen.
-
-Seine Aufgabe war im Idealfall nicht, jede Seele zu besitzen.
-
-Seine Aufgabe war:
-
-> **sie zu führen.**
-
-Damit kehrte das Amt, das unter Halnok verdorben worden war, zumindest seinem ursprünglichen Zweck näher.
-
----
-
-# Das Vermächtnis Halnoks
-
-Die große Frage über Sleceets Zukunft bleibt deshalb dieselbe, die seine Apotheose überhaupt erst ermöglichte.
-
-Halnok hatte einst ebenfalls als Hüter begonnen.
-
-Er war nicht von Anfang an ein seelenfressendes Wesen gewesen.
-
-Er hatte nur irgendwann beschlossen, dass er:
-
-> mehr Macht brauchte.
-
-Dann noch mehr.
-
-Dann genug, um wieder ganz zu werden.
-
-Sleceet erkannte diesen Verfall und verdrängte ihn.
-
-Doch seine eigene Göttlichkeit begann ebenfalls mit dem Verbrauch von Seelen.
-
-Damit wurde Halnok nicht nur zu seinem Vorgänger.
-
-Er wurde zu seiner **Warnung**.
-
-Sleceets langfristige Prüfung besteht nicht darin, mächtig genug zu sein, über das Limbo zu herrschen.
-
-Sie besteht darin, nie denselben Satz zu sprechen, der Halnok verdarb:
-
-> **„Ich brauche nur noch ein wenig mehr.“**
-
----
-
-# Bedeutung
-
-Sleceets Geschichte lässt sich auf eine Reihe von zweiten Chancen reduzieren.
-
-Er stirbt als Kind.
-
-Safyra gibt ihm eine zweite Chance.
-
-Er wächst unter Nekromanten auf und lernt, dass der Tod nicht immer endgültig ist.
-
-Er möchte selbst anderen zweite Chancen geben – notfalls gegen deren Willen.
-
-Er entdeckt, dass sein eigener Vater nach dem Tod in einem System gefangen ist, das Seelen in Macht verwandelt.
-
-Er widersetzt sich diesem System.
-
-Und schließlich überschreitet er selbst die Grenze zwischen Sterblichkeit und Göttlichkeit.
-
-Damit wird aus dem einst verhungerten Kind von Mahr ausgerechnet der Hüter jener Grenze, die sein gesamtes Leben bestimmt hat:
-
-> **zwischen Leben und Tod,**
-> 
-> **zwischen Urteil und Gnade,**
-> 
-> **zwischen Sein und Nichtsein.**
-
-Sein Epilog fasst diesen Zustand am treffendsten zusammen:
-
-> **„Du bist. Du wirst sein. Und nicht.“**
-
