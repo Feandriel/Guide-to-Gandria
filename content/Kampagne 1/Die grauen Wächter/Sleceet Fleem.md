@@ -26,6 +26,8 @@ Sein Leben war von Anfang an eng mit dem Tod verbunden. Als Kind verhungerte Vit
 
 Er entwickelte früh eine starke Vorstellung von Ordnung und Gerechtigkeit, die jedoch selten mit Milde gleichzusetzen war. Sleceet glaubte an zweite Chancen, war aber bereit, diese zu erzwingen. Einen Verbrecher zu töten, wiederzubeleben und unter Androhung göttlicher Strafe zur Buße zu verpflichten, erschien ihm durchaus als mögliche Form von Gerechtigkeit.
 
+Auf seinen Reisen mit der von ihm mitbegründeten Abenteurergruppe, den [[Die grauen Wächter|grauen Wächtern]], erlebte er einiges was diese Tendenzen verstärkte, testete und erlangte teils erschreckendes neues Wissen, welches seinen Glauben und sein Wesen erschütterten.
+
 Während des letzten Kampfes gegen **Fanlun**, den falschen Siluris und Schattentitanen, traf Sleceet schließlich eine Entscheidung, die ihn selbst über die Grenze des Sterblichen führte: Er nahm einen seit der Ersten Ära angesammelten Vorrat aus Seelen an sich, der ursprünglich für die Wiederkehr des alten Gottes **Halnok** bestimmt gewesen war, und verwendete deren Kraft für seine eigene Apotheose.
 
 Damit verhinderte er sowohl Halnoks geplante Rückkehr als auch die unmittelbare Übermacht Fanluns.
