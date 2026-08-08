@@ -1,5 +1,3 @@
-# Halnok
-
 Halnok war ursprünglich ein Gott beziehungsweise göttlicher Hüter des Limbos und des Schleiers.
 
 Seine Aufgabe bestand darin:
@@ -24,15 +22,12 @@ Was ursprünglich der Wunsch gewesen sein mochte, wieder ausreichend stark zu se
 
 Er sah zunehmend nur noch:
 
-- seine eigene Wiederherstellung,
-    
-- seinen eigenen Willen,
-    
-- seine eigene Macht.
-    
+- seine eigene Wiederherstellung,    
+- seinen eigenen Willen,    
+- seine eigene Macht.    
 
 Der Hüter der Seelen begann die Seelen, die er schützen sollte, als **Brennstoff** zu betrachten.
 
-Für Sleceet erinnerte Halnok schließlich mehr an die gefallenen Titanen als an einen Gott.
+Für [[Sleceet Fleem|Sleceet]] erinnerte Halnok schließlich mehr an die gefallenen Titanen als an einen Gott, und so verweigerte er ihm die Rückkehr und nutzte die Möglichkeit um seine eigene Apotheose zu beginnen.
 
 ---

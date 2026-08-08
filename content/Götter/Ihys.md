@@ -1,3 +1,0 @@
-Einer der ersten 8 Götter und der Vater der ersten Sterblichen. Er wurde nach dem ersten Bruch der Götter von seinem Bruder [[content/Götter/Asmodeus|Asmodeus]] getötet, im Grunde genommen nur aufgrund seines Geschenks des freien Willens. Asmodeus ließ den Sterblichen den freien Willen und erschuf die Höllen als seine perfekte Welt.
-
-Der letzte Aspekt von Ihys findet sich im Speer mit dem er getötet wurde. Dieser war für Äonen verloren, tauchte aber vor kurzem auf.
