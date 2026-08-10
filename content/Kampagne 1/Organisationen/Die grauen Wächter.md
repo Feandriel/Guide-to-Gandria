@@ -9,7 +9,7 @@
 - [[Die grauen Wächter/Gillaine Masuqualis|Gillaine Masqualis]]
 - [[Die grauen Wächter/Yoma|Yoma]]
 - [[Die grauen Wächter/Sharkub|Sharkub]]
-- [[Die grauen Wächter/Tiberius von Mondweber|Tiberius von Mondweber]]
+- [[Tiberius von Mondweber|Tiberius von Mondweber]]
 - [[Die grauen Wächter/Yura|Yura]]
 - [[Die grauen Wächter/Zetaya Phönicia-Solis|Zetaya Phönicia-Solis]]
 - [[Die grauen Wächter/Yamamoto Kōjin|Yamamoto Kōjin]]
