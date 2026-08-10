@@ -259,3 +259,17 @@ Vielleicht, dachte Valerian schließlich, war dies die einzige Loyalität, die j
 **So endete die Herrschaft Herzog Valerians von Mondweber.**
 
 **Und so begann die Herrschaft Valerians, König von Andoras – nicht mehr Herr über die Gebundenen, sondern König jener, die bleiben konnten, obwohl sie frei waren zu gehen.**
+
+
+## Kinder
+Tiberius von Mondweber zeugte mit seinen Frauen mehrere Kinder und begründete so die neue Linie der Mondweber-Dynastie.
+
+Sein erstes Kind gebar seine, kurz darauf verstorbene, Frau Lady Carmilla Carras im Jahre 978 III./ 3 IV. und Tiberius gab ihr zu Ehren seiner Mutter den Namen **Flavia  'Selene' von Mondweber**. 
+
+Sein zweites Kind wurde ihm von seiner Konkubine Amalthea im Jahre 979 III./ 4 IV. geschenkt und wurde, zu Ehren seines Vaters und seiner Schwester, **Gaia 'Aggripina' von Mondweber** getauft.
+
+Sein drittes Kind und damit seinen Erben, schenkte ihm seine seit dem Jahre 980 III./ 5 IV. Ehefrau und Königin Marianne '' Le'Noir im Jahre 981 III./ 6 IV. und erhielt den Namen **Aurelius 'Varus' von Mondweber**.
+
+Kurz darauf gebar auch Sienna, seine zweite Konkubine, einen gesunden Sohn und so kam 982 III./ 7 IV. **Gaius 'Vestanus' von Mondweber** zur Welt, der seinen Namen in Gedenken an Kojin erhielt.
+
+Im Jahre 984 III./ 9 IV. gebar Marianne Le'Noir Valerians letztes Kind, eine gesunde und außerordentlich kräftige Tochter mit dem Namen Gilliane 'Maria' von Mondweber, in Ehren der verstorbenen Priesterin und Weggefährtin Gilliane Masuqualis. Sie stellte zudem auch eine seltene, nie da gewesene Ausnahme in der Mondweber-Blutlinie dar, da sie als geborenes Tieflingsmädchen trotzdem den Segen Selunés als Aasimar trug. Ihr sollten alle Türen im Leben offen stehen.
