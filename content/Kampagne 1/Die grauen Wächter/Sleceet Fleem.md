@@ -1,4 +1,4 @@
-![[../../Bilder/sleceet.png]]
+![[Bilder/sleceet.png]]
 > _„Denn der Tod und das Limbo sind ewig. Sie brauchen keine Verehrung. Du brauchst keine. Du bist. Du wirst sein. Und nicht.“_
 
 
