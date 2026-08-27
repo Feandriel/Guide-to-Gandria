@@ -10,4 +10,4 @@ Die Gruppe bestand aus folgenden Mitgliedern:
 [[../Ultima/Königin der Nacht|Königin der Nacht]]
 [[../Ultima/Gorm|Gorm]]
 
-Sie errangen im Erastus des Jahre 674 den Sieg über den Titanen, in den Ebenen zwischen dem Herzogtum [[../Imperialer Adel/Breri|Breri]] und den [[Freie Städte Amdorias]] 
+Sie errangen im Erastus des Jahre 674 den Sieg über den Titanen, in den Ebenen zwischen dem Herzogtum [[../Imperialer Adel/Herzogtum Urma/Breri|Breri]] und den [[Freie Städte Amdorias]] 

@@ -1,2 +1,2 @@
 [[Imperiale Städte/Urma]]
-[[Imperialer Adel/Breri]]
+[[Imperialer Adel/Herzogtum Urma/Breri]]

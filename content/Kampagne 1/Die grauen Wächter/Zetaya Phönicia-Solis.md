@@ -1,13 +1,13 @@
 ![[Bilder/Zetaya_vamp2.png]]
 >Zetaya, nach ihrer Verwandlung in einen Vampir
 
-[[../Imperialer Adel/Solis]]
+[[../Imperialer Adel/Königreich Andoras/Solis]]
 [[../Organisationen/Die grauen Wächter]]
 [[Tiberius von Mondweber]]
 [[../Imperiale Städte/Atnahr]]
 [[../Organisationen/Kämpfer der Abendröte]]
 [[../Omega]]
-[[../Imperialer Adel/Phönicia]]
+[[../Imperialer Adel/Königreich Andoras/Phönicia]]
 [[../../Titanen/Siluris, Titan des Schattens]]
 
 

@@ -1,0 +1,3 @@
+Das Reich der Azlantischen Inseln, welches unter dem Titanen Iknabo gegründet wurde und seinen Machthöhepunkt erfuhr. Es endete mit dem Tod Iknabos, welcher das Land größtenteils zerstörte, umformte und unbewohnbar machte. Die damalige Hauptstadt Iknatham ist noch in seiner Gänze erhalten, da sie vollkommen verglast wurde. Heutzutage nennt man sie Obsidianstadt.
+
+Ein Azlanti-Lexikon findet sich [[../../Azlanti|hier]].
