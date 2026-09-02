@@ -1,5 +1,5 @@
 # Njord, Herr der Meere
-![[../../Bilder/Njord.png]]
+![[Bilder/Njord.png]]
 **Titel:**  
 - Der Seewächter  
 - Herr der Fjorde  

@@ -1,5 +1,5 @@
 # Die Winterjägerin  
-![[../../Bilder/Skadi.png]]
+![[Bilder/Skadi.png]]
 
 **Titel:**  
 - Herrin der Berge 

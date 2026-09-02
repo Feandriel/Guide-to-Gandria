@@ -1,5 +1,5 @@
 # Týr, Gott des Krieges 
-![[../../Bilder/Tyr.png]]
+![[Bilder/Tyr.png]]
 
 **Titel:**  
 - Herr der Eide  

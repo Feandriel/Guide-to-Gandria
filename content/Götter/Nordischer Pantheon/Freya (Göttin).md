@@ -1,5 +1,5 @@
 # Göttin der Liebe, Magie und Fruchtbarkeit
-![[../../Bilder/Freyja.png]]
+![[Bilder/Freyja.png]]
 **Titel:**  
 - Die Goldene  
 - Herrin des Seiðr  

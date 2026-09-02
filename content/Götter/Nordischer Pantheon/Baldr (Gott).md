@@ -1,5 +1,5 @@
 # Gott der Sonne, des Friedens und der Hoffnung
- ![[../../Bilder/Baldr.png]]
+ ![[Bilder/Baldr.png]]
 **Titel:**  
 - Der Strahlende  
 - Der Unbefleckte  

@@ -1,5 +1,5 @@
 # Freyr
-![[../../Bilder/Freyr.png]]
+![[Bilder/Freyr.png]]
 **Titel:**  
 - Der Grüne König
 - Herr des Goldenen Feldes  

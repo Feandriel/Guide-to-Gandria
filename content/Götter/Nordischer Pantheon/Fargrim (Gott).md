@@ -1,5 +1,5 @@
 # Fargrim der Drache
-![[../../Bilder/Fargrim.png]]
+![[Bilder/Fargrim.png]]
 **Titel:**  
 - Vater der Kriegskunst  
 - Der Unerschrockene  

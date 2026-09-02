@@ -1,5 +1,5 @@
 # Thor, der Donnergott
-![[../../Bilder/Thor.png|183]]
+![[Bilder/Thor.png]]
 
 **Titel:**
 - Der Sturmbrecher
