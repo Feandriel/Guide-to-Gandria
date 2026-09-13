@@ -8,9 +8,9 @@ Ulfric wurde am 24.12. geboren. Zu Beginn der Reise war er 24 Jahre alt, inzwisc
 
 ## Hintergrund
 
-Ulfric ist der Sohn des berühmten Berserkers Thorfinn „Blutadler“ Snaerson, weiß jedoch beinahe nichts über seinen Vater. Seine Mutter, Ylva Sagasdottir vom Clan Berserkr, verstarb bei seiner Geburt. Seine Tante Juna Sagasdottir zog ihn auf, bis sein Vater beim zweiten Sturm auf Muzu fiel. Ulfric war damals vier Jahre alt. Juna, durch ihre Ehe mit Harald Eivarson inzwischen Angehörige des Clans Arisson, sagte sich danach von ihm los.
+Ulfric ist der Sohn des berühmten Berserkers Thorfinn „Blutadler“ [[Waisenkinder|Snaerson]], weiß jedoch beinahe nichts über seinen Vater. Seine Mutter, Ylva Sagasdottir vom Clan [[Clan Berserkr|Berserkr]], verstarb bei seiner Geburt. Seine Tante Juna Sagasdottir zog ihn auf, bis sein Vater beim zweiten Sturm auf Muzu fiel. Ulfric war damals vier Jahre alt. Juna, durch ihre Ehe mit Harald Eivarson inzwischen Angehörige des Clans Arisson, sagte sich danach von ihm los.
 
-Jarl Fen Berserkr nahm ihn in den weiteren Kreis seiner Familie auf und sorgte mehr oder minder für ihn. Ulfric wurde zu einer prominenten Figur mit vielversprechender Zukunft. Er errang in mehreren Schlachten einen Namen und wurde besonders durch seine Wanderung durchs Eis berühmt: Eine Leistung, die nur Jarl Fen selbst durch eine längere Reise und Zeit im Eis überbieten konnte.
+Jarl [[Jarl Fen Berserkr|Fen]] Berserkr nahm ihn in den weiteren Kreis seiner Familie auf und sorgte mehr oder minder für ihn. Ulfric wurde zu einer prominenten Figur mit vielversprechender Zukunft. Er errang in mehreren Schlachten einen Namen und wurde besonders durch seine Wanderung durchs Eis berühmt: Eine Leistung, die nur Jarl Fen selbst durch eine längere Reise und Zeit im Eis überbieten konnte.
 
 %%
 Thorfinn verlor beim zweiten Sturm auf Muzu bereits vor Betreten der Stadt die Kontrolle und verfiel in den Berserkergang. Nach Verlust seiner Waffe tötete er mit bloßen Händen weiter, überwältigte und tötete zehn weitere Berserker und verwundete Hronir schwer. Hronir und Jarl Fen besiegten und erlösten ihn schließlich gemeinsam.
@@ -30,7 +30,7 @@ Ulfrics Berserkerblut geht auf die Blutlinie Fenris’ zurück. Jarl Fen, der ih
 
 ## Abenteuer
 
-Am Tag der Wintersonnenwende 980 brach Ulfric Thorfinnson zusammen mit Týrdaan Cindaanson, Gwent Ar-Gul und Ureste im Namen des Königs der Eismänner auf, um bis zum Sommer einen Landungskopf für die Armee zu schaffen und die Rückkehr seines Volkes auf das Festland zu ermöglichen.
+Am Tag der Wintersonnenwende 980 brach Ulfric Thorfinnson zusammen mit [[Týrdaan Cindaanson]], [[Gwent Ar-Gul]] und [[Ureste]] im Namen des Königs der Eismänner auf, um bis zum Sommer einen Landungskopf für die Armee zu schaffen und die Rückkehr seines Volkes auf das Festland zu ermöglichen.
 
 - **10. Abadius 981 — Sieg über den Höhlenwurm:** Nachdem die Gruppe einer von Würmern verursachten Traumwelt entkommen war, stellte sie den großen Höhlenwurm erneut. Ulfric stürzte sich mit gezogenem Schwert aus einem hoch gelegenen Gang auf das Ungeheuer und durchbohrte es so gewaltig, dass er seine Waffe anschließend aus dem Boden befreien musste.    
 - **11. Abadius 981 — Erster Mord an Týrdaan und erster Tod:** Stimmen führten Ulfric zu einer Altarruine, wo er in eine Vision verfiel. Als Týrdaan ihn gewaltsam wecken wollte, wandte sich Ulfric gegen ihn und Idezi. Er tötete Týrdaan mit einem Schwertwurf in den Schädel und erlag anschließend selbst seinen Kampfverletzungen.    
