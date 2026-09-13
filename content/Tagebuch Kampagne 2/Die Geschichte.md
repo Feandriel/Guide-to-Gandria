@@ -160,7 +160,7 @@ Abschließend bekam die gruppe den Auftrag einen vierarmigen Riesen zu töten, w
 #### Sitzung 14 (19.9)
 **==13. Abadius - 15. Abadius 981==**
 Auf ihrem Weg zum Kampf gegen den Riesen, gelangte unsere Gruppe, mit Mjoll im Schlepp, an den alten Wachturm der an der Kante des lokalen Plateaus wachte und entschied sich in diesem zu rasten. Man fand einige interessante Kleinigkeiten und eine windgeschützte Raststätte, deren uralten, hölzernen Innenraum man am nächsten Morgen beim Aufbruch in Brand steckte, um herauszufinden was unter dem Eis und Holz lag. 
-Die Königin, Nerefina die Grüne, nahm zur Gruppe Kontakt auf und klärte den Verlauf seit Aufbruch ab und legte die Kommunikation ab nun über Gwent fest, da seit jeher anscheinend Týrdaans Hirn beeinflusst wäre und die Verbindung zu ihm bisher kein einziges mal zustande kam - bisher.
+Die Königin, Nerestina die Grüne, nahm zur Gruppe Kontakt auf und klärte den Verlauf seit Aufbruch ab und legte die Kommunikation ab nun über Gwent fest, da seit jeher anscheinend Týrdaans Hirn beeinflusst wäre und die Verbindung zu ihm bisher kein einziges mal zustande kam - bisher.
 Der Kampf gegen den Riesen verlief recht entspannt, der Macht Ulfrics zum Dank, und nachdem man die Beute des Riesens aufgesammelt hatte, machte man sich auch wieder auf den Rückweg zum Wolkenberg.
 #### Sitzung 15 (7.11)
 **==15. Abadius - 17. Abadius 981==**
